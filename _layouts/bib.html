@@ -10,9 +10,6 @@
     <abbr class="badge">{{entry.abbr}}</abbr>
     {% endif %}
   {% endif %}
-    {% if entry.award %}
-  <span class="award badge">{{entry.award}}</span>
-  {% endif %}
   </div>
 
   <div id="{{entry.key}}" class="col-sm-8">
@@ -133,6 +130,12 @@
       <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Website</a>
     {% endif %}
     </div>
+    
+    {% if entry.award%}
+    <div class = "award">
+      <p>{{entry.award }}</p>
+    </div>
+    {% endif %}
 
     <!-- Hidden abstract block -->
     {% if entry.abstract %}
