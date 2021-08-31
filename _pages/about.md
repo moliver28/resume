@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://www.ece.uw.edu">Department of Electrical and Computer Engineering</a> • <a href="http://www.washington.edu">University of Washington, Seattle</a>
+description: <a href="https://www.ece.uw.edu">Department of Electrical and Computer Engineering</a> ○ <a href="http://www.washington.edu">University of Washington, Seattle</a>
 
 profile:
   align: right
