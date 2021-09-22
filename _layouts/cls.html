@@ -1,0 +1,44 @@
+<div class="row">
+  <div class="col-sm-2 abbr">
+  {% if entry.abbr %}
+    <abbr class="badge">{{entry.abbr}}</abbr>
+  {% endif %}
+  </div>
+
+  <div id="{{entry.key}}" class="col-sm-8">
+      <div class="title">{{entry.course_name}}</div>
+      <div class="institution">
+        <em>{{entry.inst}}</em>
+      </div>
+
+      <div class="role">
+        <em>{{entry.role}}</em>
+      </div>
+
+    <div class="links">
+    {% if entry.description %}
+      <a class="abstract btn btn-sm z-depth-0" role="button">Description</a>
+    {% endif %}
+    {% if entry.press %}
+      <a href="{{ entry.press }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Press</a>
+    {% endif %}
+    {% if entry.pdf %}
+      {% if entry.pdf contains '://' %}
+      <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+      {% else %}
+      <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+      {% endif %}
+    {% endif %}
+    {% if entry.website %}
+      <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Website</a>
+    {% endif %}
+    </div>
+
+    <!-- Hidden abstract block -->
+    {% if entry.description %}
+    <div class="abstract hidden">
+      <p>{{ entry.description }}</p>
+    </div>
+    {% endif %}
+  </div>
+</div>
