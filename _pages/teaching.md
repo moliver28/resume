@@ -10,9 +10,9 @@ nav: true
 <div class="teaching">
   
   <h2 class="year">2016</h2>
-  <ol class="bibliography"><li><div class="row">
+  <div class="row">
   <div class="col-sm-2 abbr">
-    <abbr class="badge">EE 371</abbr>
+    <span class="badge">EE 371</span>
   </div>
   <div id="ee371-fall2016" class="col-sm-8">
       <div class="title">Design of Digital Circuits and Systems</div>
@@ -23,7 +23,7 @@ nav: true
 
 
     <div class="links">
-      <a class="abstract btn btn-sm z-depth-0" role="button">Description</a>
+      <a class="btn btn-sm z-depth-0" role="button">Description</a>
     </div>
 
     <!-- Hidden abstract block -->
@@ -32,8 +32,5 @@ nav: true
     </div>
 
 </div>
-    </div>
-    </li>
-
 </div>
 
