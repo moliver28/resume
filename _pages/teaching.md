@@ -3,14 +3,14 @@ layout: page
 permalink: /teaching/
 title: Teaching
 years: [2016, 2017, 2018, 2019, 2020, 2021]
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 ---
 
 <div class="teaching">
   
-<h2 class="year">2016</h2>  
-<div class="row">
+  <h2 class="year">2016</h2>
+  <ol class="bibliography"><li><div class="row">
   <div class="col-sm-2 abbr">
     <abbr class="badge">EE 371</abbr>
   </div>
@@ -32,6 +32,8 @@ nav: true
     </div>
 
 </div>
+    </div>
+    </li>
 
 </div>
 
