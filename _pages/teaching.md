@@ -1,7 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
+years: [2016, 2017, 2018, 2019, 2020, 2021]
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 ---
