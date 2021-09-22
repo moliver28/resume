@@ -7,6 +7,4 @@ description:A list of courses I was a teaching assistant for
 nav: true
 ---
 
-
-<div class = "teaching">
- </div>
+Coming Soon!
