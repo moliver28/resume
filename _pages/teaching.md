@@ -7,7 +7,7 @@ years: [2016]
 nav: true
 ---
 
-<div class="publications">
+<div class="teaching">
 
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
