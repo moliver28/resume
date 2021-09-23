@@ -38,8 +38,9 @@ nav: true
     </div>
     {% endif %}  
   </div>
+    </li>
   {% endfor %}
-  </li></ol>
+  </ol>
 {% endfor %}
 
 </div>
