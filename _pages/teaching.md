@@ -10,7 +10,7 @@ nav: true
 <div class="publications">
 {% for y in site.data.courses %}
   <h2 class="year">{{y.year}}</h2>
-  {% for course in y}%}
+  {% for course in y%}
   <ol class="bibliography"><li><div class="row">
   <div class="col-sm-2 abbr">
   {% if course.abbr %}
