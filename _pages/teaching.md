@@ -39,6 +39,7 @@ nav: true
     {% endif %}  
   </div>
   {% endfor %}
+    </li>
 {% endfor %}
 
 </div>
