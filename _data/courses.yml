@@ -1,21 +1,29 @@
 classes:
 - year: 2017
   items:
-    - name: Introduction to C and Microprocessors
-      id: ee299_2017
-      abbr: EE 299
-      inst: University of Washington
-      hardware: Arduino
-      software: C programming language
-      description: This was a hands-on class that introduces the C language and microprocessors. Through in-class exercises, homeworks, and a series of practical lab projects, students are encouraged to develop and practice good software design methodologies using the C language then apply these skills towards developing, debugging, and testing embedded applications for an Arduino microprocessor.
-
     - name: Introduction to Embedded System
       id: ee474_2017
       abbr: EE 474
       inst: University of Washington
       hardware: Beaglebone Black microcontoller
       software: C programming language
-      description: An introductory course in the specification, design, development, and test of real time embedded system software. Topics include abstract data types; polling; interrupts; data exchange; I/O schemes; operating system concepts including processes and process state, scheduling and schedulers, single and multiple tasks; process synchronization including critical sections, semaphores, and deadlocks; system performance and optimization; reliability, fault tolerance, and test. Using the TI Sitara, AM3358BZCZ100 BeagleBone Black microcomputer as a target environment a series of laboratory projects study various aspects of embedded system design and a comprehensive final project brings together all of the concepts taught in the course.
+      description: An introductory course in the specification, design, development, and test of real time embedded system software. Topics include abstract data types; polling; interrupts; data exchange; I/O schemes; operating system concepts including processes and process state, scheduling and schedulers, single and multiple tasks; system performance and optimization; reliability, and testing. Using the BeagleBone Black microcomputer as a target environment a series of laboratory projects study various aspects of embedded system design and a comprehensive final project brings together all of the concepts taught in the course.
+    
+    - name: Introduction to C and Microprocessors
+      id: ee299_2017
+      abbr: EE 299
+      inst: University of Washington
+      hardware: Arduino
+      software: C programming language
+      description: This was a hands-on class that introduced the C language and microprocessors. Through in-class exercises, homeworks, and a series of practical lab projects, students developed and practiced good software design methodologies using the C language then apply these skills towards developing, debugging, and testing embedded applications for an Arduino microprocessor.
+
+    - name: Computer Architecture I
+      id: ee469_2017
+      abbr: EE 469
+      inst: University of Washington
+      hardware: Beaglebone Black microcontoller
+      software: C programming language
+      description: Introduction to computer architecture, algorithms and CPU control unit design, memory organization, cache design and virtual memory. Through a series of lab projects, students developed an arithmetic logic unit (ALU) and various dataflow, control flow and memory sytems that enable proper data processing by the ALU.
 - year: 2016
   items:
     - name: Design of Digital Circuits and Systems
