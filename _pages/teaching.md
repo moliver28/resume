@@ -17,7 +17,7 @@ nav: true
     <abbr class="badge">{{course.abbr}}</abbr>
   {% endif %}
     </div>  
-  <div id="ee3712016" class="col-sm-8">
+  <div id={{course.id}} class="col-sm-8">
   <div class="title">{{course.name}}</div>
   <div class="author">{{course.inst}}</div>  
   <div class="periodical">
@@ -38,9 +38,11 @@ nav: true
     </div>
     {% endif %}  
   </div>
+    </div>
     </li>
   {% endfor %}
-  </ol>
+{% endfor %}
+      </ol>
 {% endfor %}
 
 </div>
