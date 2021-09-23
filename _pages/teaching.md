@@ -28,17 +28,15 @@ nav: true
     
    <div class="links">  
   {% if course.description %}
-      <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+      <a class="abstract btn btn-sm z-depth-0" role="button">Description</a>
     {% endif %}  
     </div>
     
       {% if course.description %}
     <div class="abstract hidden">
-      <p>{{ course.descrtiption }}</p>
+      <p>{{ course.description }}</p>
     </div>
     {% endif %}  
-       
-  </div>
   </div>
     </li>
   {% endfor %}
