@@ -29,7 +29,10 @@ nav: true
    <div class="links">  
   {% if course.description %}
       <a class="abstract btn btn-sm z-depth-0" role="button">Description</a>
-    {% endif %}  
+    {% endif %}
+     {% if course.press %}
+      <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Press</a>
+    {% endif %}
     </div>
     
       {% if course.description %}
