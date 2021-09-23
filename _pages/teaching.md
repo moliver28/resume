@@ -8,10 +8,9 @@ nav: true
 ---
 
 <div class="publications">
-
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  {% for course in site.data.courses%}
+  {% for course in site.data.courses.{{y}}%}
   <ol class="bibliography"><li><div class="row">
   <div class="col-sm-2 abbr">
   {% if course.abbr %}
@@ -38,8 +37,9 @@ nav: true
     </div>
     {% endif %}  
   </div>
-    </li>
   {% endfor %}
+    
+    
 {% endfor %}
 
 </div>
