@@ -1,8 +1,7 @@
 classes:
 - year: 2017
-  items:
-  
-  - name: Engineering Entrepreneurial Systems and Design
+  items:  
+    - name: Engineering Entrepreneurial Systems and Design
       id: ee496_2017
       abbr: EE 496
       inst: University of Washington
