@@ -1,4 +1,13 @@
 classes:
+- year: 2019
+  items:  
+    - name: Engineering Entrepreneurial Capstone (ENGINE)
+      id: ee497_2018
+      abbr: EE 497/498
+      inst: University of Washington
+      description: The course was a two quarter industry sponsored capstone course for seniors. Students work in teams with industry and faculty mentors on a real-world company sponsored project. This year's iteration of the course consisted of 27 porjects. In addition to developing technical skills, the course emphasizes cross-disciplinary teamwork, communication and project management. 
+      press: https://www.ece.uw.edu/spotlight/celebrating-student-innovation-and-entrepreneurship/
+      website: https://www.engr.washington.edu/industry/capstone/2018-2019-projects
 - year: 2018
   items:  
     - name: Engineering Entrepreneurial Capstone (ENGINE)
