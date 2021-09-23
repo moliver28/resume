@@ -10,7 +10,7 @@ classes:
       website: https://www.engr.washington.edu/industry/capstone/2018-2019-projects
 - year: 2018
   items:
-     - name: Advanced Embedded System Designs
+    - name: Advanced Embedded System Designs
       id: ee542_2018
       abbr: EEP 542
       inst: University of Washington
