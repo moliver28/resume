@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: 
-years: [2016]
+years: [2016, 2017]
 nav: true
 ---
 
@@ -22,7 +22,7 @@ nav: true
   <div class="title">{{course.name}}</div>
   <div class="author">{{course.inst}}</div>  
   <div class="periodical">
-    <em> Role: Teaching Assistant</em>      
+    <em> Role: Teaching Assistant</em><br>      
         <em>Technology/Tools used: {{course.tools}}</em>
   </div>
     
