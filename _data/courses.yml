@@ -1,4 +1,12 @@
 classes:
+- year: 2018
+  items:  
+    - name: Engineering Entrepreneurial Capstone (ENGINE)
+      id: ee497_2018
+      abbr: EE 497/498
+      inst: University of Washington
+      description: Completion of an industry-motivated and mentored engineering project to develop design skills. Overseen by UW Faculty and guided by practicing engineers sponsored by industry. Emphasizes cross-disciplinary teamwork.
+      press: https://www.ece.uw.edu/spotlight/2018-uw-electrical-engineering-capstone-fair/
 - year: 2017
   items:  
     - name: Engineering Entrepreneurial Systems and Design
