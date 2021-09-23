@@ -33,6 +33,9 @@ nav: true
      {% if course.press %}
       <a href="{{ course.press }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Press</a>
     {% endif %}
+     {% if course.website %}
+      <a href="{{ course.website}}" class="btn btn-sm z-depth-0" role="button" target="_blank">Projects</a>
+    {% endif %}
     </div>
     
       {% if course.description %}
