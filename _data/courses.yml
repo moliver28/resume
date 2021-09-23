@@ -1,17 +1,16 @@
 classes:
-	- year: 2016
-    items:
-      - name: Design of Digital Circuits and Systems
-        abbr: EE 371
-        inst: University of Washington
-        hardware: Altera DE1-SOC dev board with Cyclone V FPGA
-        software: C programming language, Verilog HDL
-				
-	- year: 2017
-    items:
-      - name: Introduction to Embedded System
-        abbr: EE 474
-        inst: University of Washington
-        hardware: Beaglebone Black microcontoller
-        software: C programming language
+- year: 2016
+  items:
+    - name: Design of Digital Circuits and Systems
+      abbr: EE 371
+      inst: University of Washington
+      hardware: Altera DE1-SOC dev board with Cyclone V FPGA
+      software: C programming language, Verilog HDL
+- year: 2017
+  items:
+    - name: Introduction to Embedded System
+      abbr: EE 474
+      inst: University of Washington
+      hardware: Beaglebone Black microcontoller
+      software: C programming language
         
