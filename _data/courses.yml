@@ -2,6 +2,7 @@ classes:
 - year: 2016
   items:
     - name: Design of Digital Circuits and Systems
+      id: ee371_2016
       abbr: EE 371
       inst: University of Washington
       hardware: Altera DE1-SOC dev board with Cyclone V FPGA
@@ -10,6 +11,7 @@ classes:
 - year: 2017
   items:
     - name: Introduction to Embedded System
+      id: ee474_2017
       abbr: EE 474
       inst: University of Washington
       hardware: Beaglebone Black microcontoller
