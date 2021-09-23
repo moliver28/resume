@@ -1,6 +1,4 @@
-classes: 
-- year: 2016
-  class:
+2016:
   - name: Design of Digital Circuits and Systems
     description: An intermediate level course in the design and development of digital /embedded systems.  The main objective of the class is to provide students with a theoretical background to and practical experience with the tools, techniques, and methods for solving challenges related to modeling complex systems using the Verilog hardware description language (HDL), signal integrity, 
     managing power consumption in digital systems, and ensuring robust intra and inter system communication working with systems of midlevel complexity.
@@ -9,8 +7,7 @@ classes:
     hardware: Altera DE1-SOC development board with the Cyclone V FPGA
     software: C programming language
 
-- year: 2017
-  class:
+2017:
   - name: Introduction to Embedded Systems
     description:  An introductory course in the specification, design, development, and test of real time embedded system software. Topics include abstract data types; polling; interrupts; data exchange; I/O schemes; operating system concepts including processes and process state, scheduling and schedulers, single and multiple tasks; process synchronization including critical sections, semaphores, and deadlocks; system performance and optimization; reliability, fault tolerance, and test. Using the TI Sitara, AM3358BZCZ100 BeagleBone Black microcomputer as a target environment a series of laboratory 
     projects study various aspects of embedded system design and a comprehensive final project brings together all of the concepts taught in the course.
