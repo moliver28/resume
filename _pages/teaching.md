@@ -22,8 +22,8 @@ nav: true
   <div class="author">{{course.inst}}</div>  
   <div class="periodical">
     <u>Role</u>: Teaching Assistant<br>      
-    <em>Hardware used: {{course.hardware}}</em><br>
-    <em>Software used: {{course.software}}</em><br>
+    {% if course.hardware %}<em>Hardware used: {{course.hardware}}</em><br>{% endif %}
+    {% if course.software %}<em>Software used: {{course.software}}</em><br>{% endif %}
   </div>
     
    <div class="links">  
@@ -31,7 +31,7 @@ nav: true
       <a class="abstract btn btn-sm z-depth-0" role="button">Description</a>
     {% endif %}
      {% if course.press %}
-      <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Press</a>
+      <a href="{{ course.press }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Press</a>
     {% endif %}
     </div>
     
