@@ -3,6 +3,6 @@
     The main objective of the class is to provide students with a theoretical background to and practical experience with the tools, techniques, and methods for solving challenges related to modeling complex systems using the Verilog hardware description language (HDL), signal integrity, 
     managing power consumption in digital systems, and ensuring robust intra and inter system communication working with systems of midlevel complexity."
   inst: University of Washington
-  abbr: EE 37
+  abbr: EE 371
   tools: Altera DE1-SOC development board with the Cyclone V FPGA
   year: 2016
