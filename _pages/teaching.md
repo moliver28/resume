@@ -21,8 +21,9 @@ nav: true
   <div class="title">{{course.name}}</div>
   <div class="author">{{course.inst}}</div>  
   <div class="periodical">
-    <em> Role: Teaching Assistant</em><br>      
-        <em>Technology/Tools used: {{course.tools}}</em>
+    <u>Role</u>: Teaching Assistant<br>      
+    <em>Hardware used: {{course.hardware}}</em><br>
+    <em>Software used: {{course.software}}</em><br>
   </div>
     
    <div class="links">  
