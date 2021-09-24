@@ -44,7 +44,6 @@ nav: true
     </div>
     {% endif %}  
   </div>
-    </div>
     </li>
 {% endfor %}
       </ol>
