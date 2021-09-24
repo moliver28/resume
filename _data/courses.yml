@@ -1,4 +1,13 @@
 classes:
+- year: 2020
+  items:  
+    - name: Engineering Entrepreneurial Capstone (ENGINE)
+      id: ee497_2020
+      abbr: EE 497/498
+      inst: University of Washington
+      description: The course was a two quarter industry sponsored capstone course for seniors. Students work in teams with industry and faculty mentors on a real-world company sponsored project. This year's iteration of the course consisted of 41 porjects. In addition to developing technical skills, the course emphasizes cross-disciplinary teamwork, communication and project management. 
+      press: https://www.ece.uw.edu/spotlight/engine2020/
+      website: https://www.ece.uw.edu/wp-content/uploads/2020/06/ENGINE-2020-Program-Interactive-v5-Two-Up-2.pdf
 - year: 2019
   items:  
     - name: Engineering Entrepreneurial Capstone (ENGINE)
@@ -14,7 +23,6 @@ classes:
       id: ee542_2018
       abbr: EEP 542
       inst: University of Washington
-      description: This was an embedded systems course for the Professional Masters Program (PMP). The course covered various aspects of embedded systems applications, including contemporary issues in design, development and testing of real-time embedded systems, while emphasizing good design practices. The course was team based and highly participatory. It comprised of four components: formal lectures, student research, guided discussions of relevant literature on topics introduced and a student selected final project.
       
     - name: Engineering Entrepreneurial Capstone (ENGINE)
       id: ee497_2018
