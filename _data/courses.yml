@@ -14,6 +14,7 @@ classes:
       id: ee542_2018
       abbr: EEP 542
       inst: University of Washington
+      description: This was an embedded systems course for the Professional Masters Program (PMP). The course covered various aspects of embedded systems applications, including contemporary issues in design, development and testing of real-time embedded systems, while emphasizing good design practices. The course was team based and highly participatory. It comprised of four components: formal lectures, student research, guided discussions of relevant literature on topics introduced and a student selected final project.
       
     - name: Engineering Entrepreneurial Capstone (ENGINE)
       id: ee497_2018
