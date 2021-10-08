@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Neural networks for cybersecurity
+title: Neural networks for Cybersecurity
 description: 
 img:
 importance: 4
