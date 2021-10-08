@@ -24,4 +24,4 @@ Learn more about the group <a href = "https://www.microsoft.com/en-us/research/p
 
 ## Sparse Transformer 
 
-A sparse transformer is a transformer based NLP which uses sparse factorizations of the attention matrix. Traditional transformer models, while powerful require time and memory that grows quadratically with sequence length. Sparse transformers were introduced to address this limitation by selecting the most relevant information in the context. 
+A sparse transformer is a transformer based NLP which uses sparse factorizations of the attention matrix. Traditional transformer models, while powerful, require time and memory that grows quadratically with sequence length. Sparse transformers were introduced to address this limitation by selecting the most relevant information in the context. 
