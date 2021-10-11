@@ -7,8 +7,10 @@ importance: 3
 category: entrepreneurship
 ---
 
-**Tools used: ** HTML/CSS, Moonbeam's Exchange Platform, Pitchbook
-**Programming Languages used: ** HTML/CSS
+**Tools used:** HTML/CSS, Moonbeam's Exchange Platform, Pitchbook \
+**Programming Languages used:** HTML/CSS
+
+<hr>
 
 ## Moonbeam
 
