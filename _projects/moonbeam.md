@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Moonbeam: Congregate 
+title: Moonbeam-Congregate 
 description: I interned at Moonbeam as as Innovation Platform Engineer
-img: 
+img: /assets/img/Moonbeam.jpeg
 importance: 2
 category: entrepreneurship
 ---
