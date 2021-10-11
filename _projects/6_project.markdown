@@ -7,7 +7,7 @@ importance: 4
 category: research
 ---
 
-**Tools/Concepts used:** Input Convex Neural Networks\ 
+**Tools/Concepts used:** Input Convex Neural Networks \ 
 **Programming language and tools:** Python, Keras
 
 <hr>
