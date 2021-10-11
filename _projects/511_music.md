@@ -2,7 +2,7 @@
 layout: page
 title: Machine learning models for music genre classification
 description: 
-img:
+img: /assets/img/genre.gif
 importance: 2
 category: technical
 ---
