@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Learning to interview and craft stories
+title: Learning how to interview and craft stories
 date: 2021-10-7 11:12:00-0400
-description: 
+description: reflections on qualitative research
 ---
 
 <p style="text-align:center;"><img src="{{ site.baseurl }}/assets/img/conversation.jpeg"></p>
