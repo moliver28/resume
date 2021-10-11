@@ -7,7 +7,7 @@ importance: 1
 category: research
 ---
 
-**Skills learned/applied: ** Mixed methods research design, exploratory factor analysis, statistical analysis, document analysis 
+**Skills learned/applied:**  Mixed methods research design, exploratory factor analysis, statistical analysis, document analysis 
 
 ## The Setting
 
