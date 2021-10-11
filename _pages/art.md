@@ -3,8 +3,9 @@ layout: page
 permalink: /art/
 title: Art
 description: a repository of art work over the years
-
 ---
+
+<hr>
 
 ## Published 
 
