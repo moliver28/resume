@@ -7,8 +7,8 @@ importance: 3
 category: entrepreneurship 
 ---
 
-**Skills learned:** Lean Canvas, Cloverleaf Analysis, Primary Research (interviews), Secondary Research (market research)
-**Project Team:** Aslam Hasan, Sean Cameron, Nathan Yuan, Joshua Skelly
+**Skills learned:** Lean Canvas, Cloverleaf Analysis, Primary Research (interviews), Secondary Research (market research) \
+**Project Team:** Aslam Hasan, Sean Cameron, Nathan Yuan, Joshua Skelly\
 **Main sources used:** BCC research, Gartner, Pitchbook, Statista
 <hr>
 
