@@ -2,7 +2,7 @@
 layout: page
 title: Tech Commercialization
 description:
-img:/assests/img/Tech-transfer.png
+img: /assests/img/Tech-transfer.png
 importance: 1
 category: entrepreneurship 
 ---
