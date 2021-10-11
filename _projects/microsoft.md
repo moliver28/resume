@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Microsoft: Project Brainwave 
-description: I interned at Microsoft as a Firmware Engineer for Project Brainwave
+description:
 img:
 importance: 1
 category: technical
