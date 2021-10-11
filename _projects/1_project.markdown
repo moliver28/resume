@@ -2,7 +2,7 @@
 layout: page
 title: UW: Tech Commercialization
 description: A course at the University of Washington, Foster School of Business
-img: /assets/img/Tech-transfer.png
+img:
 importance: 1
 category: entrepreneurship 
 ---
