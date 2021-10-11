@@ -3,6 +3,6 @@ layout: page
 title: Basics of Reinforcement Learning 
 description: 
 img:
-importance: 3
+importance: 4
 category: technical
 ---
