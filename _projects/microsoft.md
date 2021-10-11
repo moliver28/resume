@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Microsoft: Project Brainwave 
+title: Microsoft-Project Brainwave 
 description:
-img:
+img:/assets/img/MS.jpeg
 importance: 1
 category: technical
 ---
