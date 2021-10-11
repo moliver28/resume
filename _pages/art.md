@@ -17,7 +17,7 @@ description: a reporsitory of art work over the years
     </div>
 </div>
   <div class="caption">
-    <i>Looking Glass (Left) </i>: published in the 34th issue of Bricolage, the Literary & Visual Arts Journal at the UW
+    <i>Looking Glass (Left) </i>: published in the 34th issue of Bricolage, the Literary & Visual Arts Journal at the UW /
     <i>Under the Bridge (Right) </i>: published in the 32nd issue of Bricolage, the Literary & Visual Arts Journal at the UW
 </div>
 <hr>
