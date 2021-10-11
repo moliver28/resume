@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Tech Commercialization
-description:
-img: /assests/img/Tech-transfer.png
+description: Developing a commercialization plan for a UW research technology 
+img: /assests/img/tech-transfer.gif
 importance: 1
 category: entrepreneurship 
 ---
