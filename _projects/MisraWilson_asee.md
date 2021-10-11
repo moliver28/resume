@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Engineering Design: Student adaptations during COVID-19
+title: Engineering student adaptations during COVID-19
 description: 
 img:
 importance: 1
