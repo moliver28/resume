@@ -7,7 +7,7 @@ importance: 4
 category: technical
 ---
 
-**Concepts learned:** Gaussian mixture models, Support Vector Machines (SVMs), Convolutional Recurrent Neural Networks (RNN), Convolutional Neural Networks (CNN)
+**Concepts learned:** Gaussian mixture models, Support Vector Machines (SVMs), Convolutional Recurrent Neural Networks (RNN), Convolutional Neural Networks (CNN) \
 **Co-author:** This was a class project done in collaboration with Manuja Sharma 
 
 <hr>
