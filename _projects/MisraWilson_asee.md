@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Engineering student adaptations during COVID-19
-description: 
-img:
+description: A study about how engineering students adapted their capstone projects due to COVID-19
+img: /assests/img/ENGINE.png
 importance: 1
 category: research
 ---
