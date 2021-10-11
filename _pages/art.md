@@ -2,7 +2,7 @@
 layout: page
 permalink: /art/
 title: Art
-description: a reporsitory of art work over the years
+description: a repository of art work over the years
 
 ---
 
@@ -23,3 +23,26 @@ description: a reporsitory of art work over the years
 <hr>
 
 ## Other Works
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/IMG_0906.jpeg" data-zoomable>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/woman.jpeg" data-zoomable>
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/eagle.jpeg" data-zoomable>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/lion.jpeg" data-zoomable>
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/owl.JPG" data-zoomable>
+    </div>
