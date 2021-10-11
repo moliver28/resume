@@ -5,7 +5,7 @@ date: 2021-10-7 11:12:00-0400
 description: 
 ---
 
-<p style="text-align:center;"><img src="{{ site.baseurl }}/assets/img/conversation.jpeg></p>
+<p style="text-align:center;"><img src="{{ site.baseurl }}/assets/img/conversation.jpeg"></p>
 <div class="caption">
      Image from: https://www.esquiresg.com/how-to-steer-deflecting-counter-conversation-talk-negotiate-to-your-favour-tactfully/
 </div>
