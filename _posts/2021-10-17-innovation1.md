@@ -7,7 +7,7 @@ description: This post is adapted from my talk at the University of Washingtonâ€
 
 Over a year ago, I asked some of my students what innovation meant to them. Over a year ago, I asked some of my students what innovation meant to them.
 
-<p style="text-align:center;"><img src="{{ site.baseurl }}/assets/img/def_innovation.png" height= "200" width = "200"></p>
+<p style="text-align:center;"><img src="{{ site.baseurl }}/assets/img/def_innovation.png" height= "400" width = "500"></p>
 
 Unsurprisingly, I found that innovation meant different things to different people. This diversity of definitions of innovation existed not only in personal opinion, but is also reflected in definitions used across different fields in academia, industry and government [1], as you can see below.
 
