@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2021-10-6 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+I gave a talk at the UW ECE Department's Fall Quarter Colloquium series. The talk is available <a href = "https://www.youtube.com/watch?v=AR2RtkXcLDg">here</a>
