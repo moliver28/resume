@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Learning how to interview and crafting stories
-date: 2021-10-7 11:12:00-0400
+title: Understanding Innovation, Part I-A: What is innovation?
+date: 2021-10-17 11:12:00-0400
 description: This post is adapted from my talk at the University of Washington’s Department of Electrical and Computer Engineering.
 ---
 
