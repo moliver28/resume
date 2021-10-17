@@ -46,9 +46,9 @@ As an engineer, I like to think in systems as it provides a simplified framework
 
 According to this literature, the system of innovation has three components:
 
-* Organizations: These are formal structures that are consciously created and have an explicit purpose. Organizations are the agents/actors in an SI. They are akin to the players of a game. Examples of some important organizations in an SI include firms, universities, venture capitalists, public agencies etc.
-* Institutions: Set of common habits, norms, routines, established practices, rules or laws that govern the relations and interactions between individuals, groups, and organizations. They are akin to the rules of a game.. Examples include patent laws, along with the rules and norms influencing the relations between universities and firms
-* Networks: These are the relationships between different organizations that determine how information flows between various entities in an SI.
+* <b>Organizations:</b> These are formal structures that are consciously created and have an explicit purpose. Organizations are the agents/actors in an SI. They are akin to the players of a game. Examples of some important organizations in an SI include firms, universities, venture capitalists, public agencies etc.
+* <b>Institutions:</b> Set of common habits, norms, routines, established practices, rules or laws that govern the relations and interactions between individuals, groups, and organizations. They are akin to the rules of a game.. Examples include patent laws, along with the rules and norms influencing the relations between universities and firms
+* <b>Networks:</b> These are the relationships between different organizations that determine how information flows between various entities in an SI.
 
 Together, the interactions between these components can determine how effective an innovation system is. All of this sounds abstract and theoretical, so in my next post I will attempt to make this a little more concrete with a couple of examples.
 
