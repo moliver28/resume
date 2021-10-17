@@ -7,7 +7,7 @@ description: This post is adapted from my talk at the University of Washington�
 
 Over a year ago, I asked some of my students what innovation meant to them. Over a year ago, I asked some of my students what innovation meant to them.
 
-<p style="text-align:center;"><img src="{{ site.baseurl }}/assets/img/def_innovation.png"></p>
+<p style="text-align:center;"><img src="{{ site.baseurl }}/assets/img/def_innovation.png" height= "200" width = "200"></p>
 
 Unsurprisingly, I found that innovation meant different things to different people. This diversity of definitions of innovation existed not only in personal opinion, but is also reflected in definitions used across different fields in academia, industry and government [1], as you can see below.
 
@@ -35,19 +35,13 @@ Let’s me explain what I mean through an example. When I think of an innovation
 These technologies were often created in research labs in universities, funded by various public agencies. If innovation was only defined as creation, then how much of an innovator was Apple or Steve Jobs? They did not create the various technologies embedded in an iPhone. However, without Apple, these technologies might have never reached customers in the way they have today. Therefore, defining innovation as process of creation and application motivates us to start thinking about it as a system of interacting entities involved in innovating novel technologies, instead of subscribing to the myth of a lone inventor in their garage.
 As an engineer, I like to think in systems as it provides a simplified framework to organize and analyze complex relationships. It so turns out that in the literature of innovation studies, there is a concept of a system of innovation (SI). An SI can roughly be defined as components and relationships between those components that determine and affect the process of innovation.
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/NIS.png">
-        <div class="caption">
-    National Innovation System Model [7] 
+<p style="text-align:center;"><img src="{{ site.baseurl }}/assets/img/NIS.png"></p>
+<div class="caption">
+     National Innovation System Model [7] 
 </div>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/MIT.pngf">
-        <div class="caption">
-    MIT’s five stakeholders in an innovation ecosystem [8]
-</div>
-    </div>
+<p style="text-align:center;"><img src="{{ site.baseurl }}/assets/img/MIT.png"></p>
+<div class="caption">
+     MIT’s five stakeholders in an innovation ecosystem [8]
 </div>
 
 According to this literature, the system of innovation has three components:
