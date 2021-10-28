@@ -9,7 +9,7 @@ category: research
 
 **Co-authors:** This study was led by Prof Denise Wilson and was a collaborative effort of PhD students from the Department of Electrical and Computer Engineering and the Department of Education at the University of Washington. The study included Morgan Anderson (Department of Education), Dr. Ziyan Bai (Department of Education, Neha Kardam (Department of Electrical and Computer Engineering) and Shruti Misra (Department of Electrical and Computer Engineering)\
 
-**Relevant Links:** http://labs.ece.uw.edu/community/Covid19/ 
+**Relevant Links:** <a href  = "http://labs.ece.uw.edu/community/Covid19/">Engineering Education COVID-19 Project</a> 
 
 <hr> 
 
