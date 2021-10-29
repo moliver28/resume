@@ -40,9 +40,8 @@ Thus, HP was fostering entrepreneurial opportunities and innovation within it. I
 
 ### *TLDR
 
-{% highlight c++  %}
-
+<p style="padding: 10px; border: 2px solid red;">
 HP's open and decentralized institutions allowed it to quickly capitalize on emerging trends in technology. It's readiness to acknowledge and adopt changing trends was driven by an organizational structure that supported experimentation and autonomy at lower levels of the organization. These institutional characteristics allowed HP to remain ahead of the curve and adapt to changing times.
 On the other hand, DEC's proprietary and centralized institutional practices prevented it from making the quick changes it needed to remain competitive. Its reluctance to recognize and adapt to technological shifts was furthered by a centralized organizational structure. This meant that the power to govern DEC's direction was concentrated in a few number of top executives, who refused to acknowledge new technological trends and caused DEC to lose its edge by the 1990s.
+</p>
 
-{% endhighlight %}
