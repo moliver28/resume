@@ -61,7 +61,7 @@ By creating a market for local companies to compete in, HP was encouraging them 
 
 ### *TLDR
 
-<p style="padding: 10px; border: 2px solid red;">
+<p style="padding: 10px; background-color: LightGoldenrodYellow;">
 HP intentionally built external alliances and plugged into Silicon Valley's network of local firms, academics and smaller companies. Through this network, they were able to quickly obtain "the word on the street" about upcoming technological trends and capitalize it to maintain their competitive edge. By partnering with external contractors and smaller companies, they also created a competitive market for these companies to innovation.
   
 DEC was internally focused and vertically integrated. This was partly because the isolated culture of Route 128 meant that there wasn't much of an external network that DEC could leverage even if they wanted to. DEC's isolated position also meant that they did not have similar access to information about new technologies like HP did, resulting in them not adapting to changing trends as quickly.
@@ -168,4 +168,5 @@ Regardless of the motivations and mechanisms, these stories show that innovation
  
 # References
 [1] Saxenian, A. (1996). Inside-out: regional networks and industrial adaptation in Silicon Valley and Route 128. Cityscape, 41–60.
+
 [2] Henry, N., Angus, T., & Jenkins, M. (2021). Motorsport Valley revisited: Cluster evolution, strategic cluster coupling and resilience. European Urban and Regional Studies, 09697764211016039.
