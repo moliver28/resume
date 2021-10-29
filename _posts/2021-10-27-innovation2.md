@@ -22,7 +22,7 @@ What might be driving this pattern? To answer this question, I look at what some
 
 ## 1.1 The Giants: HP and DEC
 
-<p style="text-align:center;"><img src="https://cdn-images-1.medium.com/max/800/1*IUQLgqdEsxoUwAdUlLeb2A.png" height= "400" width = "600"></p>
+<p style="text-align:center;"><img src="https://cdn-images-1.medium.com/max/800/1*IUQLgqdEsxoUwAdUlLeb2A.png"></p>
 
 Digital Equipment Corporation (DEC)and HP were both major organizations in the electronics industry in the 1980s. Both were established early on in the history of electronics. DEC was established in Maynard, Massachusetts (Route 128) in 1957 and HP was founded in Palo Alto, California (Silicon Valley) in 1939. Moreover, DEC dominated Route 128 unlike any other company (including HP) dominated Silicon Valley. However, HP is still around, while DEC got acquired by Compaq at the end of the 1990s, which ironically got acquired by HP in 2002. What did HP and DEC do differently? We can analyze these difference through the lens of innovation systems and examine the <b><i>institutions and networks</i></b> driving both of these organizations.
 
