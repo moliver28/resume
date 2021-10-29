@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding Innovation, Part I.B: Systems of Innovation
+title: Understanding Innovation, Part I.B-Systems of Innovation
 date: 2021-10-27 11:12:00-0400
 description: This post is adapted from my talk at the University of Washington’s Department of Electrical and Computer Engineering.
 ---
