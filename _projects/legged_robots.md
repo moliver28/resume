@@ -7,7 +7,7 @@ importance: 3
 category: technical
 ---
 
-** Tools/Programming languages used: Python, MATLAB
+* Tools/Programming languages used: Python, MATLAB
 
 In this project, I ported from MATLAB to Python, a computational framework for simulating two different models of legged hybrid systems: a passive dynamic biped and a bounding quadruped. 
 
@@ -29,4 +29,5 @@ modeled as an activated system, where the activation function was obtained from 
 
 # Further reading
 
-A detailed description and results of the project can be found <a href = "{{ site.baseurl }}/assets/pdf/546_Hybrid_Systems.pdf">here</a>
+A detailed description and results of the project can be found <a href = "{{ site.baseurl }}/assets/pdf/546_Hybrid_System.pdf">here</a>
+The code for the framework can be found <a href = "https://github.com/shruti-misra/Legged-Robots-Python">here</a>a>
