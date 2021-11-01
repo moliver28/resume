@@ -56,14 +56,17 @@ These four functions of leadership in its role in an organization’s innovation
 <p style="padding: 10px; background-color: LemonChiffon">
 
 * Leadership requires creating a safe space for experimenting with, identifying, and communicating relevant and fundamental problems that need to be innovated upon.
+
 * Leadership involves creating an open environment for ensuring that everyone is empowered to innovate through engaging a diverse group of employees and stakeholders to participate in the innovation process.
+
 * Leadership is about challenging the status quo thinking and pursing potentially unconventional ideas.
+
 * Leadership for innovation requires ensuring that the business survives by creating mechanisms and processes to fund and grow innovation.
 
 </p>
 
 # Connecting the Dots
 
-In my <a href = "https://medium.com/@shrutimisra/understanding-innovation-part-i-a-what-is-innovation-c3e5f446472b">previous posts</a>I talked about innovation systems (SIs), which comprise of organizations, institutions and networks and interactions between them determine the dynamics of the system and affect the innovation process. Elizebeth’s talk about innovation as a function leadership presents a view of how can people within organizations create effective institutions for innovation. Unlike my <a href = "https://medium.com/@shrutimisra/understanding-innovation-part-i-b-systems-of-innovation-f3a1c30bdf5c">previous examples</a>a> of Silicon Valley, Route 128 and Motorsport Valley that offer a zoomed out, ecosystem level perspective about SIs, this talk really honed in on what can leaders and individuals do to foster innovation in their organization. The talk emphasized that decisions by leaders are what create the institutions and environment for innovation, which impact the entire innovation system and can lead to effective innovation.
+In my <a href = "https://medium.com/@shrutimisra/understanding-innovation-part-i-a-what-is-innovation-c3e5f446472b">previous posts</a> I talked about innovation systems (SIs), which comprise of organizations, institutions and networks and interactions between them determine the dynamics of the system and affect the innovation process. Elizebeth’s talk about innovation as a function leadership presents a view of how can people within organizations create effective institutions for innovation. Unlike my <a href = "https://medium.com/@shrutimisra/understanding-innovation-part-i-b-systems-of-innovation-f3a1c30bdf5c">previous examples</a>  of Silicon Valley, Route 128 and Motorsport Valley that offer a zoomed out, ecosystem level perspective about SIs, this talk really honed in on what can leaders and individuals do to foster innovation in their organization. The talk emphasized that decisions by leaders are what create the institutions and environment for innovation, which impact the entire innovation system and can lead to effective innovation.
 
 
