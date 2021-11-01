@@ -76,7 +76,7 @@ permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: false
+  enabled: true
 
 
 # Comments
