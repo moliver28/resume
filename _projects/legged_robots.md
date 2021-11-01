@@ -2,7 +2,7 @@
 layout: page
 title: A Python Framework for Legged Robots
 description: 
-img:
+img: /assets/img/Passive_dynamic_walker.gif
 importance: 3
 category: technical
 ---
@@ -24,6 +24,22 @@ This project builds upon the MATLAB framework for legged systems as provided in 
 Firstly, Python compilers are available on most operating systems, free of charge, unlike MATLAB. Secondly, Python code can run on microcontrollers such as the Beaglebone, and thus can directly be used to run on real robotic systems. Two
 examples of legged systems were used in this project: the passive dynamic biped and the bounding quadruped. The former system as rightly named is passive and does not involve any actuation. The bounding quadruped on the other hand is
 modeled as an activated system, where the activation function was obtained from [1] and [2]. The product of this project can be a tool to aid further reseach into legged systems with a Python based framework. 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/Walker.jpeg">
+        <div class="caption">
+    Passive Dynamic Walker
+</div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/Quadruped.png">
+        <div class="caption">
+    Bounding Quadruped
+</div>
+    </div>
+</div>
+
 
 <hr>
 
