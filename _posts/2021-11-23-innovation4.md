@@ -7,7 +7,7 @@ description: This post is a reflection on Io Blair-Freese’s talk for my depart
 
 One of my favorite core ideas from Io's talk was her definition of responsible and effective innovation and how it incorporates equality.
 
-<p> style="text-align:center;"><img src="https://cdn-images-1.medium.com/max/800/1*cCTkYUC8Q1fiZj-eCNNyBA.png"></p>
+<p style="text-align:center;"><img src="https://cdn-images-1.medium.com/max/800/1*cCTkYUC8Q1fiZj-eCNNyBA.png"></p>
 <div class="caption">
     Adapted from Io's slides
 </div>
@@ -16,16 +16,16 @@ Responsible innovation asks the questions: where are the people who need a speci
 
 Effective innovation touches on optimization and maximization. It asks the questions where are the people who can benefit the most? How do we maximize our resources to reach the most people and have the largest impact?
 
-Oftentimes, responsible and effective innovation do not overlap. Individuals and societies that need a specific innovation the most often don't have the infrastructure and resources to support it, while communities where an innovation can have the maximum reach already have some technology and technological infrastructure built to support it. An example of this is the socioeconomic technological divide during the COVID-19 pandemic in the context of education. A <a href = "https://www.rand.org/pubs/research_reports/RRA134-3.html">study</a>found that access to internet at home increased the likelihood of completing assignments on time. Furthermore, another <a href = "https://journals.sagepub.com/doi/pdf/10.1177/2378023120988200">study</a> found that a high speed internet connection and a higher number of internet-enabled devices was linked to higher levels of student engagement. This has resulted in the <a href = "https://www.commonsensemedia.org/kids-action/publications/homework-gap">homework gap"</a> between students who had reliable home broadband access and those who do not. The "homework gap" is an indicator of whether a student will be able to complete their homework and succeed in school alongside their peers who have internet. According to a Pew Research Center <a href = "https://www.pewresearch.org/internet/2021/09/01/the-internet-and-the-pandemic/">study</a>, nearly half (46%) of the parents with lower incomes whose children's schools closed reported that their children faced at least one problem related to the 'homework gap'. Therefore children, especially from lower income backgrounds who need education the most are getting left behind. In this example, online learning technologies have been an "effective" innovation in the sense that they were able to keep education going to some degree during the pandemic. However, their use may not have been responsible, as it was skewed towards specific communities and regions (rural vs. urban).
+Oftentimes, responsible and effective innovation do not overlap. Individuals and societies that need a specific innovation the most often don't have the infrastructure and resources to support it, while communities where an innovation can have the maximum reach already have some technology and technological infrastructure built to support it. An example of this is the socioeconomic technological divide during the COVID-19 pandemic in the context of education. A <a href = "https://www.rand.org/pubs/research_reports/RRA134-3.html">study</a> found that access to internet at home increased the likelihood of completing assignments on time. Furthermore, another <a href = "https://journals.sagepub.com/doi/pdf/10.1177/2378023120988200">study</a> found that a high speed internet connection and a higher number of internet-enabled devices was linked to higher levels of student engagement. This has resulted in the <a href = "https://www.commonsensemedia.org/kids-action/publications/homework-gap">"homework gap"</a> between students who had reliable home broadband access and those who do not. The "homework gap" is an indicator of whether a student will be able to complete their homework and succeed in school alongside their peers who have internet. According to a Pew Research Center <a href = "https://www.pewresearch.org/internet/2021/09/01/the-internet-and-the-pandemic/">study</a>, nearly half (46%) of the parents with lower incomes whose children's schools closed reported that their children faced at least one problem related to the 'homework gap'. Therefore children, especially from lower income backgrounds who need education the most are getting left behind. In this example, online learning technologies have been an "effective" innovation in the sense that they were able to keep education going to some degree during the pandemic. However, their use may not have been responsible, as it was skewed towards specific communities and regions (rural vs. urban).
 
-<p> style="text-align:center;"><img src="https://cdn-images-1.medium.com/max/800/1*cqSHGeaFjMFxWlUM2nFtCA.png"></p>
-<p> style="text-align:center;"><img src="https://cdn-images-1.medium.com/max/800/1*DYElsHlzSQsutOiC9hGZ1w.png"></p>
+<p style="text-align:center;"><img src="https://cdn-images-1.medium.com/max/800/1*cqSHGeaFjMFxWlUM2nFtCA.png"></p>
+<p style="text-align:center;"><img src="https://cdn-images-1.medium.com/max/800/1*DYElsHlzSQsutOiC9hGZ1w.png"></p>
 
 <hr>
 
 ## Getting the right data
 
-<p> style="text-align:center;"><img src="https://cdn-images-1.medium.com/max/800/1*SqIlm-7Q83Y2EwdkoBsPAg.jpeg"></p>
+<p style="text-align:center;"><img src="https://cdn-images-1.medium.com/max/800/1*SqIlm-7Q83Y2EwdkoBsPAg.jpeg"></p>
 <div class="caption">
 GRID3 project on the Geospatial Analysis of Measels Immunization Coverage. Estimated coverage during the campaign at 1×1 km, highlighting low coverage areas with <50% coverage in red and other coverage classes in different colors. The white dots indicate settlements located within the low coverage areas. Source: <a href = "https://grid3.org/spotlight/geospatial-analysis-of-measles-immunisation-coverage">https://grid3.org/spotlight/geospatial-analysis-of-measles-immunisation-coverage</a>
 </div>
@@ -44,7 +44,7 @@ An example that Io provided, that stuck with me was about asking the right quest
 
 ## It's not just about the technology…it's also about partnerships and people
 
-<p> style="text-align:center;"><img src="https://cdn-images-1.medium.com/max/800/1*334xfMzEXla6n2v24FZ8-w.png"></p>
+<p style="text-align:center;"><img src="https://cdn-images-1.medium.com/max/800/1*334xfMzEXla6n2v24FZ8-w.png"></p>
 <div class="caption">
 Source: <a href = "https://petrobras.com.br/en/about-us/profile/stakeholders/">https://petrobras.com.br/en/about-us/profile/stakeholders/</a>
 </div>
