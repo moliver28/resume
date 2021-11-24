@@ -45,5 +45,5 @@ modeled as an activated system, where the activation function was obtained from 
 
 # Further reading
 
-A detailed description and results of the project can be found <a href = "{{ site.baseurl }}/assets/pdf/546_Hybrid_System.pdf">here</a>
-The code for the framework can be found <a href = "https://github.com/shruti-misra/Legged-Robots-Python">here</a>a>
+A detailed description and results of the project can be found <a href = "{{ site.baseurl }}/assets/pdf/546_Hybrid_System.pdf">here</a>. <br>
+The code for the framework can be found <a href = "https://github.com/shruti-misra/Legged-Robots-Python">here</a>.
