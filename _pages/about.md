@@ -14,3 +14,5 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I’m currently a Ph.D. student at the Department of Electrical and Computer Engineering at the University of Washington, advised by <a href="https://people.ece.uw.edu/wilson/">Prof. Denise Wilson</a>. 
+
+You can view my CV <a href = "{{ site.baseurl }}/assets/pdf/Husky100_CV.pdf">here</a> 
