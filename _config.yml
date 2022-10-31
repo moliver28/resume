@@ -138,6 +138,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll/scholar
   - jekyll-twitter-plugin
+  - jekyll-redirect-from
   - jekyll-sitemap
   - jemoji
 
