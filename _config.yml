@@ -95,7 +95,7 @@ collections:
     permalink: /news/:path/
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /data-science/:path/
 
 
 news_limit: 5
