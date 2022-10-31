@@ -6,7 +6,7 @@ description: <a href="https://www.ece.uw.edu"><font size="-1">Department of Elec
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic2.JPG
 
 news: false  # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
