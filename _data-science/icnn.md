@@ -8,7 +8,7 @@ category: machine learning
 ---
 
 **Tools/Concepts used:** Input Convex Neural Networks \
-**Programming language and tools:** Python, Keras
+**Programming language and tools:** Python, Keras \
 **Publication:"** Misra, Shruti, Shana Moothedath, Hossein Hosseini, Joey Allen, Linda Bushnell, Wenke Lee, and Radha Poovendran. "Learning equilibria in stochastic information flow tracking games with partial knowledge." In 2019 IEEE 58th Conference on Decision and Control (CDC), pp. 4053-4060. IEEE, 2019.
 
 <hr>
