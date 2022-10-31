@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Data Science
+permalink: /data-science/
 description:
 nav: true
-display_categories: [technical, research, entrepreneurship]
+display_categories: [visualization, machine learning]
 horizontal: false
 ---
 <div class="projects">
