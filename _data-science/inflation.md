@@ -3,7 +3,6 @@ layout: page
 title: Visualizing Inflation in the US
 description: 
 img: /assets/img/inflation.jpg
-redirect_to: https://shruti-misra.github.io/inflation_viz/
 importance: 2
 
 category: visualization
