@@ -4,7 +4,7 @@ title: Machine learning models for music genre classification
 description: 
 img: /assets/img/genre.gif
 importance: 2
-category: technical
+category:machine learning
 ---
 
 **Concepts learned:** Gaussian mixture models, Support Vector Machines (SVMs), Convolutional Recurrent Neural Networks (RNN), Convolutional Neural Networks (CNN) \
