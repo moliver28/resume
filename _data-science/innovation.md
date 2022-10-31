@@ -8,11 +8,11 @@ importance: 2
 category: visualization
 ---
 
-**Concepts learned:** Multi-view compositions, zooming, scaling, handling temporal data \
-**Tools/Programming Languages Used:** Python, Altair \
+**Concepts learned:** Heatmaps, bar plots, user-centered design \
+**Tools/Programming Languages Used:** Tableau \
 **Team Members:** This was a class project done in collaboration with Neha Kardam, Mai Peng, Boyuan Xie
 
 <hr>
 
 
-The project can be found <a href = "https://shruti-misra.github.io/inflation_viz/">here</a>
+The project can be found <a href = "https://shruti-misra.github.io/innovation-dashboard/">here</a>
