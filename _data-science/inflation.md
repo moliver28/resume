@@ -2,7 +2,7 @@
 layout: page
 title: Visualizing Inflation in the US.
 description: 
-img: /assets/img/genre.gif
+img: /assets/img/inflation.jpg
 importance: 2
 
 category: visualization
