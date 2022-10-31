@@ -20,6 +20,7 @@ Project Brainwave is a FPGA based deep learning platform, which accelerates deep
 
 Learn more about the group <a href = "https://www.microsoft.com/en-us/research/project/project-brainwave/"> here </a>
 
+<p style="text-align:left;"><img src="{{ site.baseurl }}/assets/img/brainwave-480x280.jpg" height= "280" width = "480"></p>
 <hr>
 
 ## Sparse Transformer 
