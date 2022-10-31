@@ -93,7 +93,7 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  projects:
+  data-science:
     output: true
     permalink: /data-science/:path/
 
