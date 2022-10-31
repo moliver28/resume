@@ -8,6 +8,7 @@ category: machine learning
 ---
 
 **Concepts learned:** Gaussian mixture models, Support Vector Machines (SVMs), Convolutional Recurrent Neural Networks (RNN), Convolutional Neural Networks (CNN) \
+**Tools/Programming Languages Used:** Python, Keras 
 **Co-author:** This was a class project done in collaboration with Manuja Sharma 
 
 <hr>
@@ -20,4 +21,4 @@ We used a subset of the Million song Dataset which consisted of 10 genres. We us
 
 ## Summary
 
-We first etablished baseline models for the classification task such as random classification, Gaussian Mixture Models and Support Vector Machines. We then implemented CNNs and CRNNs to do the same task. We found that both CNNs and CRNNs surpass the accuracy of baseline models, with CRNNs performing better than CNNS.
+We first etablished baseline models for the classification task such as random classification, Gaussian Mixture Models and Support Vector Machines. We then implemented CNNs and CRNNs to do the same task. We found that both CNNs and CRNNs surpass the accuracy of baseline models, with CRNNs performing better than CNNs.
