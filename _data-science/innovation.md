@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Visualizing Inflation in the US
+title: Visualizing Innovation in US Cities
 description: 
 img: /assets/img/innovation.JPG
 importance: 2
