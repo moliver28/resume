@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Data Science
+title: Data Science Projects
 permalink: /data-science/
 description:
 nav: true
-display_categories: [visualization, machine learning]
+display_categories: [machine learning, visualization]
 horizontal: false
 ---
 <div class="projects">
