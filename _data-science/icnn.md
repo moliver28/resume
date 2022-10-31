@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Neural networks for Cybersecurity
+title: Neural Networks for Cybersecurity
 description: A supervised learning approach to cybersecurity
 img: /assets/img/icnn.png
 importance: 2
