@@ -8,9 +8,10 @@ category: machine learning
 ---
 
 **Concepts learned:** Gaussian mixture models, Support Vector Machines (SVMs), Convolutional Recurrent Neural Networks (RNN), Convolutional Neural Networks (CNN) \
-**Tools/Programming Languages Used:** Python, Keras 
+**Tools/Programming Languages Used:** Python, Keras \
+**Team:** **Shruti Misra**, Manuja Sharma \
 **Project Type:** Class Project
-**Team:** **Shruti Misra**, Manuja Sharma
+
 
 <hr>
 
