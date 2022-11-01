@@ -42,3 +42,22 @@ Developing a data-driven visualization tool to comprehensively understand stakeh
       </div>
     </a>
   </div>
+  
+<div class="grid-item">
+
+<a href="/projects/legged_robots/">
+
+  <div class="card hoverable">
+
+    <img src="/assets/img/Passive_dynamic_walker.gif" alt="project thumbnail" />
+
+    <div class="card-body">
+      <h2 class="card-title">A Python Framework for Hybrid Legged Robots</h2>
+      <p class="card-text"></p>
+      <div class="row ml-1 mr-1 p-0">
+
+      </div>
+    </div>
+  </div>
+</a>
+  </div>
