@@ -24,19 +24,17 @@ Developing a data-driven visualization tool to comprehensively understand stakeh
 
 ### Other Research Projects
 
-<div class="grid-item">
-    
+<div class="projects">
+<div class="grid">
+    <div class="grid-item">
     <a href="/data-science/icnn/">
-    
       <div class="card hoverable">
-        
         <img src="/assets/img/icnn.png" alt="project thumbnail" />
         
         <div class="card-body">
           <h3 class="card-title">Neural Networks for Cybersecurity</h3>
           <p class="card-text">A game theoretic and supervised learning approach to cybersecurity</p>
           <div class="row ml-1 mr-1 p-0">
-            
           </div>
         </div>
       </div>
@@ -61,3 +59,4 @@ Developing a data-driven visualization tool to comprehensively understand stakeh
   </div>
 </a>
   </div>
+    </div>
