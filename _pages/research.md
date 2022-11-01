@@ -8,7 +8,7 @@ nav: true
 
 <hr>
 
-## An Educational Perspective: Assessing the Value of Industry Supported Engineering Capstone Programs
+### An Educational Perspective: Assessing the Value of Industry Supported Engineering Capstone Programs
 
 <img align="left" src="{{ site.baseurl }}/assets/img/engr_design_process.jpg">
 
@@ -16,6 +16,6 @@ Mixed methods research to develop measures and survey instruments that will help
 
 <hr>
 
-## A Digital Tools Perspective: Uncovering Stakeholder Motivations, Information Needs and Practices in an Innovation Ecosystem
+### A Digital Tools Perspective: Uncovering Stakeholder Motivations, Information Needs and Practices in an Innovation Ecosystem
 
 Developing a data-driven visualization tool to comprehensively understand stakeholders' motivations, information needs and practices in an innovation ecosystem. The goal of this study is to articulate how multiple stakeholders interact in an innovation ecosystem to solve comples socio-technical problems and identify relevant measures of innovation activity around research and entrepreneurship. For this work, I am creating multiple data visualization prototypes (an example is found <a href="https://shruti-misra.github.io/innovation-dashboard/"here</a>). I will then exploratory and evaluative user research to group stakeholders based on their information needs and usage. 
