@@ -3,6 +3,7 @@ layout: page
 permalink: /research/
 title: research
 description: a repository of art work over the years
+nav: true
 ---
 
 <hr>
