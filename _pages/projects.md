@@ -6,7 +6,7 @@ description:
 nav: false
 ---
 
-isplay_categories: [technical,research, entrepreneurial]
+isplay_categories: [technical, research, entrepreneurship]
 horizontal: false
 ---
 <div class="projects">
