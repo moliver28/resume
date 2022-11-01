@@ -3,7 +3,7 @@ layout: page
 title: Other Projects
 permalink: /projects/
 description:
-nav: false
+nav: true
 display_categories: [technical, research, entrepreneurship]
 horizontal: false
 ---
