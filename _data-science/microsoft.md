@@ -8,7 +8,7 @@ category: machine learning
 ---
 
 **Technologies learned:** Sparse transformer (Natural Language Processing)\
-**Tools/Programming languages used:** Python, C
+**Tools/Programming languages used:** Python, C \
 **Project Type:** Internship
 
 In the Summer of 2019, I was fortunate to intern at Microsoft as a firmware development for Project Brainwave. My goal was to research the sparse transformer NLP model, simulate it and evaluate its performance for inference for Bing.
