@@ -10,7 +10,8 @@ category: visualization
 
 **Concepts learned:** Heatmaps, bar plots, user-centered design \
 **Tools/Programming Languages Used:** Tableau \
-**Team Members:** This was a class project done in collaboration with Neha Kardam, Mai Peng, Boyuan Xie
+**Team Members:**  Neha Kardam, **Shruti Misra**, Mai Peng, Boyuan Xie
+**Project Type:** Class Project + Research
 
 <hr>
 
