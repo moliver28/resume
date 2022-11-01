@@ -26,7 +26,7 @@ Developing a data-driven visualization tool to comprehensively understand stakeh
 
 <div class="grid-item">
     
-    <a href="/data-science/icnn">
+    <a href="/data-science/icnn/">
     
       <div class="card hoverable">
         
