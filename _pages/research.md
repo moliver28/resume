@@ -22,7 +22,7 @@ Developing a data-driven visualization tool to comprehensively understand stakeh
 
 <hr>
 
-### Past Research
+### Other Research Projects
 
 <div class="grid-item">
     
