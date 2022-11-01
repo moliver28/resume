@@ -7,4 +7,5 @@ description: a repository of art work over the years
 
 <hr>
 
-## I study how universities and industry collaborate to bolster an innovation ecosystem.
+## I study how universities and industry collaborations contribute to innovation ecosystem.
+
