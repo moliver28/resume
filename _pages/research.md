@@ -9,3 +9,7 @@ description: a repository of art work over the years
 
 ## I study how universities and industry collaborations contribute to innovation ecosystem.
 
+<hr>
+
+## A Study of Industry Supported Engineering Capstone Programs
+
