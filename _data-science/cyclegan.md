@@ -9,7 +9,7 @@ category: machine learning
 
 **Concepts Learned:** Generative Adversarial Networks (GANs) \
 **Tools/Programming languages used:** Python, Keras \
-**Project Type:** Class Project
+**Project Type:** Class Project \
 **Team:** Kyle Lindgren, **Shruti Misra**
 
 <hr>
