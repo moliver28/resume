@@ -4,9 +4,7 @@ permalink: /projects/
 title: Other Projects
 description:
 nav: false
----
-
-isplay_categories: [technical, research, entrepreneurship]
+display_categories: [technical, research, entrepreneurship]
 horizontal: false
 ---
 <div class="projects">
