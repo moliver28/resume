@@ -2,16 +2,15 @@
 layout: page
 title: CycleGANs for Generating Realistic Depth Map Data
 description: 
-img: /assets/img/CycleGANs.JPG
+img: /assets/img/Cycle2.JPG
 importance: 5
 category: machine learning
 ---
 
 **Concepts Learned:** Generative Adversarial Networks (GANs) \
 **Tools/Programming languages used:** Python, Keras \
-**Team:** Kyle Lindgren, **Shruti Misra** \
 **Project Type:** Class Project
-
+**Team:** Kyle Lindgren, **Shruti Misra**
 
 <hr>
 
@@ -28,7 +27,7 @@ The dataset used for this application was the NYU hand pose dataset, which conta
 
 # Results
 
-<p style="text-align:center;"><img src="{{ site.baseurl }}/assets/img/CycleGANs.JPG" ></p>
+<p style="text-align:center;"><img src="{{ site.baseurl }}/assets/img/CycleGANs.JPG" height= "400" width = "400"></p>
 
 Qualitatively, from Figure 1 it can be observed that the realistic data "looks" similar to the real data from the NYU dataset. This shows that the trained network learned, with reasonable amount of accuracy, the high level noise model observed by Kinect v1 depth sensors; the real depth camera utilized in the training dataset of real images. The MSE value computed between the real data X and the output data  was 5523.81.
 
