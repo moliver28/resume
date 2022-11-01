@@ -26,14 +26,14 @@ Developing a data-driven visualization tool to comprehensively understand stakeh
 
 <div class="grid-item">
     
-    <a href="/data-science/icnn.md">
+    <a href="/data-science/icnn">
     
       <div class="card hoverable">
         
         <img src="/assets/img/icnn.png" alt="project thumbnail" />
         
         <div class="card-body">
-          <h3 class="card-title text-lowercase">Neural Networks for Cybersecurity</h3>
+          <h3 class="card-title">Neural Networks for Cybersecurity</h3>
           <p class="card-text">A game theoretic and supervised learning approach to cybersecurity</p>
           <div class="row ml-1 mr-1 p-0">
             
