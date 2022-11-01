@@ -10,7 +10,7 @@ category: visualization
 
 **Concepts learned:** Multi-view compositions, zooming, scaling, handling temporal data \
 **Tools/Programming Languages Used:** Python, Altair \
-**Team Members:**  Neha Kardam, **Shruti Misra**, Mai Peng, Boyuan Xie
+**Team Members:**  Neha Kardam, **Shruti Misra**, Mai Peng, Boyuan Xie \
 **Project Type:** Class Project
 
 <hr>
