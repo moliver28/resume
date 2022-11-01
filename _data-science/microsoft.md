@@ -16,12 +16,10 @@ In the Summer of 2019, I was fortunate to intern at Microsoft as a firmware deve
 <hr>
 
 ## Project Brainwave 
-
+<img align="right" width="300" height="200" src="{{ site.baseurl }}/assets/img/brainwave-480x280.jpg" height= "280" width = "480">
 Project Brainwave is a FPGA based deep learning platform, which accelerates deep neural network (DNN) inferencing for application in natural language processing and computer vision. 
 
 Learn more about the group <a href = "https://www.microsoft.com/en-us/research/project/project-brainwave/"> here </a>
-
-<img align="right" width="300" height="200" src="{{ site.baseurl }}/assets/img/brainwave-480x280.jpg" height= "280" width = "480">
 <hr>
 
 ## Sparse Transformer 
