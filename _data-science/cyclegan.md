@@ -27,7 +27,7 @@ The dataset used for this application was the NYU hand pose dataset, which conta
 
 # Results
 
-<p style="text-align:center;"><img src="{{ site.baseurl }}/assets/img/CycleGANs.JPG" height= "400" width = "400"></p>
+<p style="text-align:center;"><img src="{{ site.baseurl }}/assets/img/CycleGANs.JPG"></p>
 
 Qualitatively, from Figure 1 it can be observed that the realistic data "looks" similar to the real data from the NYU dataset. This shows that the trained network learned, with reasonable amount of accuracy, the high level noise model observed by Kinect v1 depth sensors; the real depth camera utilized in the training dataset of real images. The MSE value computed between the real data X and the output data  was 5523.81.
 
