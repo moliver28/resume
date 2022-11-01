@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /projects/
 title: Other Projects
+permalink: /projects/
 description:
 nav: false
 display_categories: [technical, research, entrepreneurship]
