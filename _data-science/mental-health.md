@@ -11,7 +11,7 @@ category: visualization
 **Concepts learned:** Maps, barplots \
 **Tools/Programming Languages Used:** Tableau \
 **Dataset:**  Health Professional Shortage Area (HPSA) Shortage Dataset \
-**Client:** Valorant Health
+**Client:** Valorant Health \
 **Project Type:** Practicum
 
 <hr>
