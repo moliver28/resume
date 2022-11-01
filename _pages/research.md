@@ -11,5 +11,5 @@ description: a repository of art work over the years
 
 <hr>
 
-## Angle 1: A Study of Industry Supported Engineering Capstone Programs
+## An Educational Perspective: A Study of Industry Supported Engineering Capstone Programs
 
