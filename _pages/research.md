@@ -18,6 +18,4 @@ Mixed methods research to develop measures and survey instruments that will help
 
 ## A Digital Tools Perspective: Uncovering Stakeholder Motivations, Information Needs and Practices in an Innovation Ecosystem
 
-<img align="left" src="pathto/engr_design_process.jpg">
-
 Developing a data-driven visualization tool to comprehensively understand stakeholders' motivations, information needs and practices in an innovation ecosystem. The goal of this study is to articulate how multiple stakeholders interact in an innovation ecosystem to solve comples socio-technical problems and identify relevant measures of innovation activity around research and entrepreneurship. 
