@@ -23,4 +23,4 @@ My research focuses on exploring how universities collaborate with industry to f
 
 In addition to research, I also have experience performing due diligence on investment opportunities under consideration by <a href = "https://www.packvc.com">Pack Ventures</a>. This includes evaluating market potential, scientific novelty and competitive landscape of STEM innovations.
 
-My prior technical background includes embedded systems engineering, control theory and machine learning. 
+My prior technical background includes embedded systems engineering, control theory and machine learning
