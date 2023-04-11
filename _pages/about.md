@@ -12,12 +12,7 @@ news: false  # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-I’m a Ph.D. candidate in Electrical and Computer Engineering with a focus on Data Science at the University of Washington (UW). I am a <a href = "https://catalyst.harvard.edu/community-engagement/mmr/">mixed-methods</a> researcher whose research focuses on one key question: 
-
-How do people, organizations and regions innovate? 
-
-My research focuses on exploring how universities collaborate with industry to further education and entrepreneurship. I primarily use mixed-methods research approaches, which means I integrate quantitative statistical analysis with exploratory research methods such as interviewing, surveys and document analysis to answer research question.
+I am a Data Science PhD student at University of Washington, with experience in research, industry, and venture capital. I am looking for full time positions for Fall 2023. I’m interested in technical positions that involve using data-driven methods to complex solve problems.  My expertise lies in integrating computational/statistical analysis and visualization of heterogenous data with interviews and surveys to identify, define and refine actionable insights that help drive impact.
 
 In addition to research, I also have experience performing due diligence on investment opportunities under consideration by <a href = "https://www.packvc.com">Pack Ventures</a>. This includes evaluating market potential, scientific novelty and competitive landscape of STEM innovations.
 
