@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: <b>I am currently looking for industry positions.</b>
+description: <b>Researcher | Data Scientist | Educator</b>
 
 profile:
   align: right
