@@ -17,4 +17,4 @@ As a PhD candidate and researcher, I'm an explorer at heart. My diverse upbringi
 
 Initially drawn to electrical engineering by my interest in  <a href = "https://www.washington.edu/boundless/powering-promise/">sustainability</a>, my passion for real-world impact has evolved into a mixed-methods research approach. I enjoy blending quantitative (external datasets, surveys, etc.) and qualitative data sources (interviews, document analyses etc.), to craft engaging stories and address research questions.
 
-When I'm not obsessing over research, you can find me taking long city walks in search of bakeries and coffee, baking, trying to get good at music/drums or most importantly reading a book!
+When I'm not obsessing over research, you can find me taking long city walks in search of bakeries and coffee, baking, trying to get good at music/drums or above all reading a book!
