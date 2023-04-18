@@ -9,7 +9,7 @@ nav: true
 
 ## <a href= "https://www.ece.uw.edu/entrepreneurship/entrepreneurial-capstone/">Industry Sponsored Engineering Design Capstone</a>
 
-In 2015, I participated in the electrical and computer engineering department’s pilot for a capstone course, in which students work on industry projects for two quarters. The experience had a significant impact on me, and I returned to the program as a lead teaching assistant (TA) in 2018. Since then, I have achieved the following:
+Since 2018, have been the lead TA for my department's senior design capstone in which students work on industry projects for two quarters, during which I have achieved the following:
 
 - Led the growth and success of 5 cohorts of the program, during which the number of students grew from over 85+ (20+ projects) to 250+ students (52 projects).
 - Managed a growing team of TAs that grew from 2 to 4 members in five years.
