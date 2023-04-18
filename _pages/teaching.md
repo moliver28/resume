@@ -22,7 +22,7 @@ As a result of my work, I was a finalist for the Outstanding Teaching Award in 2
 
 ## <a href = "https://cele.uw.edu/students/opportunities/riverways/">Alternative Spring Break (ASB)</a>
 
-<img align="left" src="/assets/img/asb_1317.png">
+<img align="right" src="/assets/img/asb_1317.png" width="100" height="50">
 
 The program is a part of Riverways Education Partnerships (formerly known as The Pipeline Project) and serves rural and tribal schools across Washington State.  I first participated in the Environmental ASB (EASB) in 2013 during which I:
 - Developed and delivered an engaging curriculum to elementary and middle school students at the Quileute Tribal School in La Push, educating them about Washington's diverse environment.
