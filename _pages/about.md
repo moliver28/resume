@@ -12,8 +12,5 @@ news: false  # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a Data Science PhD student at University of Washington, with experience in research, industry, and venture capital. I am looking for full time positions for Fall 2023. I’m interested in technical positions that involve using data-driven methods to complex solve problems.  My expertise lies in integrating computational/statistical analysis and visualization of heterogenous data with interviews and surveys to identify, define and refine actionable insights that help drive impact.
+My title of a PhD candidate/researcher underlies my core identify of an explorer. Through delving into multiple disiciplines and growing up in different cities and I have become skilled at learning about, investigating and building for novel, ambiguous and unfamiliar problem spaces and people situations. I started out as an electrical engineer interested in <a href = "https://www.washington.edu/boundless/powering-promise/">sustainability</a> and found my way to becoming a mixed-methods researcher motivated by the need to drive impact. As a researcher, I like to leverage the combined power of data/numbers and qualitative insights (interviews, document analyses etc.) to tell compelling stories and answer research questions. 
 
-In addition to research, I also have experience performing due diligence on investment opportunities under consideration by <a href = "https://www.packvc.com">Pack Ventures</a>. This includes evaluating market potential, scientific novelty and competitive landscape of STEM innovations.
-
-My prior technical background includes embedded systems engineering, control theory and machine learning
