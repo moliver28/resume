@@ -3,50 +3,16 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: 
-years: [2016, 2017]
 nav: true
 ---
 
-<div class="publications">
-{% for y in site.data.courses.classes%}
-  <h2 class="year">{{y.year}}</h2>
-  {% for course in y.items%}
-  <ol class="bibliography"><li><div class="row">
-  <div class="col-sm-2 abbr">
-  {% if course.abbr %}
-    <abbr class="badge">{{course.abbr}}</abbr>
-  {% endif %}
-    </div>  
-  <div id={{course.id}} class="col-sm-8">
-  <div class="title">{{course.name}}</div>
-  <div class="author">{{course.inst}}</div>  
-  <div class="periodical">
-    <u>Role</u>: Teaching Assistant<br>      
-    {% if course.hardware %}<em>Hardware used: {{course.hardware}}</em><br>{% endif %}
-    {% if course.software %}<em>Software used: {{course.software}}</em><br>{% endif %}
-  </div>
-    
-   <div class="links">  
-  {% if course.description %}
-      <a class="abstract btn btn-sm z-depth-0" role="button">Description</a>
-    {% endif %}
-     {% if course.press %}
-      <a href="{{ course.press }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Press</a>
-    {% endif %}
-     {% if course.website %}
-      <a href="{{ course.website}}" class="btn btn-sm z-depth-0" role="button" target="_blank">Projects</a>
-    {% endif %}
-    </div>
-    
-      {% if course.description %}
-    <div class="abstract hidden">
-      <p>{{ course.description }}</p>
-    </div>
-    {% endif %}  
-  </div>
-    </div>
-    </li>
-{% endfor %}
-      </ol>
-{% endfor %}
-</div>
+## Industry Sponsored Engineering Design Capstone (ENGINE)
+
+In 2015, I participated in the electrical and computer engineering department’s pilot for a capstone course, in which students work on industry projects for two quarters. The experience had a significant impact on me, and I returned to the program as a lead teaching assistant (TA) in 2018. Since then, I have achieved the following:
+
+- Led 5 cohorts of the program, during which the number of students grew from over 85+ (20+ projects) to 250+ students (52 projects).
+- Managed a team of TAs that grew from 2 to 4 members in five years.
+- Designed and implemented the program curriculum, which included assignments, meeting and presentation schedules, community events, etc.
+- Mentored more than 150 students (50+ teams) by assisting with design project scoping, providing technical support, managing interpersonal conflicts, and overseeing project management.
+
+As a result of my work, I was a finalist for the Outstanding Teaching Award in 2022 across all UW departments, and in 2019, I won the Outstanding Teaching Assistant Award, which was presented by the Department of Electrical and Computer Engineering.
