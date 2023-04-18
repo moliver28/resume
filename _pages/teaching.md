@@ -21,7 +21,15 @@ As a result of my work, I was a finalist for the Outstanding Teaching Award in 2
 <hr>
 
 ## <a href = "https://cele.uw.edu/students/opportunities/riverways/">Alternative Spring Break (ASB)</a>
-<p style="text-align:right;"><img src="/assets/img/asb_1317.png"></p>
+
+ <article>
+    {% if page.profile %}
+    <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+        <img class="img-fluid z-depth-1 rounded" src="/assets/img/asb_1317.png">
+    </div>
+    {% endif %}
+
+    <div class="clearfix">
 The program is a part of Riverways Education Partnerships (formerly known as The Pipeline Project) and serves rural and tribal schools across Washington State.  I first participated in the Environmental ASB (EASB) in 2013 during which I:
 - Developed and delivered an engaging curriculum to elementary and middle school students at the Quileute Tribal School in La Push, educating them about Washington's diverse environment.
 - Facilitated meaningful learning experiences for students by implementing interactive activities, resulting in high student engagement and positive feedback.
@@ -32,3 +40,6 @@ I returned to the program in 2017 to pilot an engineering focused ASB program du
 - Recruited and trained a team of 5 students to design and implement a weeklong engineering-focused curriculum at Granger High School, resulting in high levels of student engagement and positive feedback from both students and teachers.
 - Led a seminar series for university students, providing guidance and support in developing culturally responsive STEM curricula that meet the needs and interests of multicultual student populations.
 - Contributed to the development of inclusive and equitable STEM education practices by incorporating culturally responsive teaching techniques and promoting diversity and inclusion in the Engineering Alternative Spring Break program.
+    </div>
+  </article>
+
