@@ -7,7 +7,7 @@ nav: true
 ---
 <hr>
 
-## Industry Sponsored Engineering Design Capstone
+## <a href= "https://www.ece.uw.edu/entrepreneurship/entrepreneurial-capstone/">Industry Sponsored Engineering Design Capstone</a>
 
 In 2015, I participated in the electrical and computer engineering department’s pilot for a capstone course, in which students work on industry projects for two quarters. The experience had a significant impact on me, and I returned to the program as a lead teaching assistant (TA) in 2018. Since then, I have achieved the following:
 
