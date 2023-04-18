@@ -207,7 +207,7 @@ blockquote {
     font-size: 2rem;
     a {
       i::before {
-        color: var(--global-text-color-light);
+        color: var(--global-theme-color);
         -webkit-transition: all 0.2s ease-in-out;
       }
       &:hover {
