@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Science
+title: data science
 permalink: /data-science/
 description:
 nav: true
