@@ -13,8 +13,11 @@ nav: true
 
 ## Latest favourites
 <hr>
-Currently reading.... 
+
+### Currently reading.... 
 - Thinking Fast and Slow by Daniel Kahneman
+
+<hr>
 
 ### Books
 - The Code: Margaret O'Mara
