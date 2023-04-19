@@ -32,9 +32,9 @@ nav: true
 
 <hr>
 ### Blogs and Articles
--<a href = "https://stratechery.com/">Stratechery by Ben Thompson</a>
--<a href = "https://kozyrkov.medium.com/">Cassie Kozyrkov's Medium</a>
--<a href = "https://hbr.org/2018/09/why-design-thinking-works"> Why Design Thinking Works?</a>
+- <a href = "https://stratechery.com/">Stratechery by Ben Thompson</a>
+- <a href = "https://kozyrkov.medium.com/">Cassie Kozyrkov's Medium</a>
+- <a href = "https://hbr.org/2018/09/why-design-thinking-works"> Why Design Thinking Works?</a>
 
 <hr>
 ### Podcasts
