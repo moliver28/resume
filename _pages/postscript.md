@@ -9,7 +9,7 @@ nav: true
 <hr>
 
 
-<img align="right" src="/assets/img/bookshop.png" width = "600" height = "700">
+<img align="right" src="/assets/img/bookshop.png" width = "400" height = "500">
 
 ## Latest favourites
 <hr>
