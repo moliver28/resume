@@ -35,3 +35,7 @@ I returned to the program in 2017 to pilot an engineering focused ASB program du
 - Led a seminar series for 20+ university students, providing guidance and support in developing culturally responsive STEM curricula that meet the needs and interests of multicultual student populations.
 - Contributed to the development of inclusive and equitable STEM education practices by incorporating culturally responsive teaching techniques and promoting diversity and inclusion in the Engineering Alternative Spring Break program.
 
+<hr>
+
+## Other Engineering Courses
+During my Masters I have TA'ed for all of the courses in the embedded systems track including Introduction to Microcontrollers (EE 299), Digital Circuits (EE 271), Digital Design (EE 371), Introduction to Embedded Systems (EE474) and Embedded Systems Capstone (EE475) 
