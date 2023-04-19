@@ -8,11 +8,11 @@ nav: true
 ---
 <hr>
 
-# Currently reading.... 
-### Thinking Fast and Slow by Daniel Kahneman
+## Currently reading.... 
+Thinking Fast and Slow by Daniel Kahneman
 
 <hr>
-# Latest favourites
+## Latest favourites
 
 <hr>
 ## Books
