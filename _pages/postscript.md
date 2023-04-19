@@ -9,7 +9,7 @@ nav: true
 <hr>
 
 
-<img align="right" src="/assets/img/bookshop.png" width = "400" height = "500">
+<img align="right" src="/assets/img/bookshop.png" width = "500" height = "600">
 
 ## Latest favourites
 <hr>
@@ -29,6 +29,12 @@ nav: true
 - Introduction, Presence: Nation of Language
 - New Me, Same Us: Little Dragon
 - Starlight 99: Argonaut & Wasp
+
+<hr>
+### Blogs and Articles
+-<a href = "https://stratechery.com/">Stratechery by Ben Thompson</a>
+-<a href = "https://kozyrkov.medium.com/">Cassie Kozyrkov's Medium</a>
+-<a href = "https://hbr.org/2018/09/why-design-thinking-works"> Why Design Thinking Works?</a>
 
 <hr>
 ### Podcasts
