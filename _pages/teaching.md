@@ -30,9 +30,9 @@ The program is a part of Riverways Education Partnerships (formerly known as The
 - Contributed to the success of the program by collaborating effectively with team members, and demonstrating strong leadership skills, resulting in an impactful program.
 
 I returned to the program in 2017 to pilot an engineering focused ASB program during which I : 
-- Founded and directed the Engineering Alternative Spring Break program for high school students in Yakima Valley, Washington, providing a unique opportunity for students to engage with engineering concepts and develop real-world skills.
+- Founded and directed the Engineering Alternative Spring Break program for high school students in Yakima Valley, Washington, providing a unique opportunity for students to engage with engineering concepts.
 - Recruited and trained a team of 5 students to design and implement a weeklong engineering-focused curriculum at Granger High School, resulting in high levels of student engagement and positive feedback from both students and teachers.
-- Led a seminar series for 20+ university students, providing guidance and support in developing culturally responsive STEM curricula that meet the needs and interests of multicultual student populations.
+- Led a seminar series for 20+ university students, providing guidance and support in developing culturally responsive STEM curricula that met the needs and interests of multicultual student populations.
 - Contributed to the development of inclusive and equitable STEM education practices by incorporating culturally responsive teaching techniques and promoting inclusion and equity in the Engineering Alternative Spring Break program.
 
 <hr>
