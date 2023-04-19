@@ -14,7 +14,7 @@ Thinking Fast and Slow by Daniel Kahneman
 <hr>
 ## Latest favourites
 
-<img align="right" src="/assets/img/bookshop.png">
+<img align="right" src="/assets/img/bookshop.png" width = "400" height = "500">
 
 ### Books
 - The Code: Margaret O'Mara
