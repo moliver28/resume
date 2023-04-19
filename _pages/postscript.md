@@ -13,7 +13,9 @@ Thinking Fast and Slow by Daniel Kahneman
 
 <hr>
 ## Latest favourites
-<br>
+
+<img align="right" src="/assets/img/bookshop.png">
+
 ### Books
 - The Code: Margaret O'Mara
 - Night Circus: Erin Morgenstern
