@@ -38,4 +38,4 @@ I returned to the program in 2017 to pilot an engineering focused ASB program du
 <hr>
 
 ## Other Engineering Courses
-During my Masters I have TA'ed for all of the courses in the embedded systems track including Introduction to Microcontrollers (EE 299), Digital Circuits (EE 271), Digital Design (EE 371), Introduction to Embedded Systems (EE474) and Embedded Systems Capstone (EE475) 
+During my Masters I have TA'ed for all of the courses in the embedded systems series including Introduction to Microcontrollers (EE 299), Digital Circuits (EE 271), Digital Design (EE 371), Introduction to Embedded Systems (EE474) and Embedded Systems Capstone (EE475) 
