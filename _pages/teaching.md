@@ -12,8 +12,11 @@ nav: true
 Since 2018, have been the lead TA for my department's senior design capstone in which students work on industry projects for two quarters, during which I have achieved the following:
 
 - Led the growth and success of 5 cohorts of the program, during which the number of students grew from over 85+ (20+ projects) to 250+ students (52 projects).
+
 - Managed a growing team of TAs that grew from 2 to 4 members in five years.
+
 - Designed and implemented an innovative curriculum for the program, including assignments, meeting and presentation schedules, and community events, resulting in higher student engagement.
+
 - Mentored over 150 students (50+ teams) by providing guidance and support for design project scoping, technical assistance, interpersonal conflict resolution, and project management, resulting in successful project completion and student satisfaction.
 
 As a result of my work, I was a finalist for the Outstanding Teaching Award in 2022 across all UW departments, and in 2019, I won the Outstanding Teaching Assistant Award, which was presented by the Department of Electrical and Computer Engineering.
