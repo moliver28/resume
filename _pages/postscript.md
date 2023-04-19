@@ -8,13 +8,13 @@ nav: true
 ---
 <hr>
 
-## Currently reading.... 
-Thinking Fast and Slow by Daniel Kahneman
 
-<hr>
+<img align="right" src="/assets/img/bookshop.png" width = "600" height = "700">
+
 ## Latest favourites
-
-<img align="right" src="/assets/img/bookshop.png" width = "400" height = "500">
+<hr>
+Currently reading.... 
+- Thinking Fast and Slow by Daniel Kahneman
 
 ### Books
 - The Code: Margaret O'Mara
