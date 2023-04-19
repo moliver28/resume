@@ -33,7 +33,7 @@ I returned to the program in 2017 to pilot an engineering focused ASB program du
 - Founded and directed the Engineering Alternative Spring Break program for high school students in Yakima Valley, Washington, providing a unique opportunity for students to engage with engineering concepts and develop real-world skills.
 - Recruited and trained a team of 5 students to design and implement a weeklong engineering-focused curriculum at Granger High School, resulting in high levels of student engagement and positive feedback from both students and teachers.
 - Led a seminar series for 20+ university students, providing guidance and support in developing culturally responsive STEM curricula that meet the needs and interests of multicultual student populations.
-- Contributed to the development of inclusive and equitable STEM education practices by incorporating culturally responsive teaching techniques and promoting diversity and inclusion in the Engineering Alternative Spring Break program.
+- Contributed to the development of inclusive and equitable STEM education practices by incorporating culturally responsive teaching techniques and promoting inclusion and equity in the Engineering Alternative Spring Break program.
 
 <hr>
 
