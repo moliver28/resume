@@ -10,8 +10,8 @@ nav: true
 
 ## Latest favourites
 
-<img align="right" src="/assets/img/bookshop.png" width = "400" height = "500">
 <hr>
+<img align="right" src="/assets/img/bookshop.png" width = "400" height = "500">
 
 ### Currently reading.... 
 - Thinking Fast and Slow by Daniel Kahneman
