@@ -108,5 +108,16 @@ To gain insight into IMPACT's product and business roadmap, I conducted market a
 ### Outcome
 The outcome of the market and competitive analysis was to develop a pricing model for IMPACT and conduct a SWOT analysis of the app. By analyzing the competition, the team was able to identify a suitable pricing model that would appeal to the target customer base. Additionally, by conducting a SWOT analysis, the team was able to identify necessary versus "good to have" features for the app, which could inform future product development decisions.
 
+<hr>
+## Impact
+
+This fellowship yielded significant outcomes, as I transformed IMPACT from a research product to a potentially market-ready solution.. I achieved this by:
+
+- Identifying parents and providers as the ideal target customers for IMPACT, effectively communicating this to Dr. Sonney and paving the way for successful product development.
+- Providing compelling, evidence-based arguments against seeking regulatory approval, which ultimately saved valuable time and resources.
+- Determining the necessary design requirements and constraints for creating a Minimum Viable Product (MVP), ensuring a successful potential product.
+- Offering valuable design recommendations for optimizing IMPACT for providers.
+- Creating a comprehensive "best case" 6-year commercialization plan for IMPACT, including recommendations for various funding options, setting the groundwork for long-term success.
+
 
 
