@@ -44,7 +44,7 @@ These objectives gave rise to the following key questions and approach:
 
 # Methodology
 <br>
-<img align="center" src="/assets/img/impact_methodology.png" width="900" height="200">
+<img align="center" src="/assets/img/impact_methodology.png" width="900" height="150">
 
 ## 1. User Interview Review
 ### Purpose
