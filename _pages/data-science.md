@@ -5,7 +5,7 @@ order: 1
 permalink: /data-science/
 description:
 nav: true
-display_categories: [machine learning, visualization]
+display_categories: [machine learning, data visualization]
 horizontal: false
 ---
 <div class="projects">
