@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: A growing collection of your cool projects.
+description:
 nav: true
 order: 2
 display_categories:
