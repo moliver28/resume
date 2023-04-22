@@ -2,7 +2,7 @@
 layout: page
 title: Project IMPACT
 description: I obtained a fellowship to develop a commercialization strategy for a novel asthma management app (IMPACT) for school-aged children.
-img:
+img:/assets/img/kid_asthma.jpg
 importance: 1
 category: work
 ---
@@ -32,15 +32,33 @@ I delivered a concrete 6 year product design and funding strategy based on exten
 <hr>
 
 # Key Research Objectives and Approaches
-
+<br>
 - **In healthcare, who buys and who pays for this type of technology varies and are often not the user** -> Spend extra time getting to know the ecosystem and who’s involved
 - **FDA approval is expensive and time consuming** -> Investigate if FDA approval is needed and if so what the specific impact will be on commercialization
 
 These objectives gave rise to the following key questions and approach:
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/impact_approach.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
+
 <hr>
 
 # Methodology
+<br>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/impact_methodology.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
 
 ## 1. User Interview Review
 ### Purpose
@@ -90,7 +108,7 @@ To gain insights into the potential customers' perspectives on IMPACT, I conduct
 ### Outcome
 The outcome of the interviews with potential customers was positive overall. The two parents who had used the app were enthusiastic about it and expressed their willingness to pay for it if it was available off the shelf. They had also suggested some design improvements during the usability studies. On the other hand, the pediatricians were more cautious and wanted to ensure the app's usefulness. They emphasized that the app should not add more data analysis to their job and preferred a solution that easily integrated into their existing workflow. This feedback provided valuable insights for Dr. Sonney's team.
 
-## 4. Secondary Research
+## 5. Secondary Research
 ### Purpose
 I conducted market and competitive analysis alongside the interviews and surveys. The purpose of this analysis was to gain insights into IMPACT's product and business roadmap.
 
