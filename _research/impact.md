@@ -38,7 +38,7 @@ I delivered a concrete 6 year product design and funding strategy based on exten
 
 These objectives gave rise to the following key questions and approach:
 
-<img align="center" src="/assets/img/impact_approach.png" width="800" height="400">
+<img align="center" src="/assets/img/impact_approach.png" width="600" height="300">
 
 <hr>
 
