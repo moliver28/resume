@@ -119,5 +119,13 @@ This fellowship yielded significant outcomes, as I transformed IMPACT from a res
 - Offering valuable design recommendations for optimizing IMPACT for providers.
 - Creating a comprehensive "best case" 6-year commercialization plan for IMPACT, including recommendations for various funding options, setting the groundwork for long-term success.
 
+<hr>
+## Learnings
+
+My experience in this fellowship provided an incredible opportunity for me to gain extensive knowledge about designing and scaling technology in the mobile health industry, specifically when working within regulatory constraints. In my <a href = "https://medium.com/@shrutimisra/learnings-about-mobile-health-innovation-a5d3e914f0c7">reflection</a>, I have organized my learnings about the industry and highlighted some key takeaways.
+
+One significant learning was the importance of persistence, especially when faced with challenges. For instance, when the survey method failed to produce the desired results despite reaching out to audiences through social media and personal networks, I realized the value of pursuing alternative methods like evaluative interviews. This decision turned out to be a blessing in disguise, as it helped me identify gaps in my survey questions and iterate over survey design for future use.
+
+Although this project was not solely focused on product design, it provided me with a great perspective on how business goals can drive product goals and vice versa. This understanding has given me a broader outlook on product development and helped me appreciate the interdependence between business and product objectives.
 
 
