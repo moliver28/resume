@@ -111,7 +111,7 @@ The outcome of the market and competitive analysis was to develop a pricing mode
 <hr>
 ## Impact
 
-This fellowship yielded significant outcomes, as I transformed IMPACT from a research product to a potentially market-ready solution.. I achieved this by:
+This fellowship yielded significant outcomes, as I transformed IMPACT from a research product to a potentially market-ready solution. I achieved this by:
 
 - Identifying parents and providers as the ideal target customers for IMPACT, effectively communicating this to Dr. Sonney and paving the way for successful product development.
 - Providing compelling, evidence-based arguments against seeking regulatory approval, which ultimately saved valuable time and resources.
