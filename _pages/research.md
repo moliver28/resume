@@ -5,7 +5,7 @@ permalink: /research/
 description:
 nav: true
 order: 2
-display_categories:
+display_categories: [work, fun]
 horizontal: false
 ---
 
