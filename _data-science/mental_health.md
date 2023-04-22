@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Visualizing Inflation in the US
+title: Mental Health Professionals Shortage in the U.S
 description:
 img: /assets/img/mentalHealth.jpg
 redirect: https://public.tableau.com/app/profile/shruti.misra/viz/MentalHealthProfessionalsShortageintheU_S/Dashboard1
