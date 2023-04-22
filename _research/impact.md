@@ -72,6 +72,8 @@ However, for IMPACT to be reimbursed by insurance, it needs to be classified as 
 
 It was also discovered that selling to larger hospital systems would require extensive proof points around efficacy, including studies, data collection, and integration with electronic health records. Due to the significant resources needed to pursue this avenue, smaller hospitals and clinics and parents were identified as potential customers for IMPACT.
 
+<hr>
+
 ## 3. Surveys
 ### Purpose
 The purpose of my research was to determine the viability of selling IMPACT to parents and smaller hospitals and clinics. To achieve this, I needed to explore whether they would be willing to purchase IMPACT and at what price point. Additionally, I wanted to identify any reasons why they may choose not to buy it.
@@ -84,6 +86,7 @@ To ensure a comprehensive and reliable dataset, I adopted a mixed methods approa
 ### Outcome
 The outcome of my survey approach was disappointing, as I did not receive any responses to either survey. As a result, it became apparent that a different strategy was needed to gather insights on the viability of selling IMPACT to parents and smaller hospitals and clinics.
 
+<hr>
 ## 4. Evaluative Interviews
 ### Purpose
 To gather insights on the viability of selling IMPACT to parents and smaller hospitals and clinics, I decided to switch to an interview approach after my initial survey failed to yield any responses. However, I encountered challenges while identifying suitable participants. Initially, I avoided reaching out to Dr. Sonney's participants as they were a biased group who had received monetary incentives to participate in the study. However, I later realized that the interviews conducted by Dr. Sonney's team were in the context of usability research, whereas my focus was on understanding whether parents would be interested in purchasing IMPACT. I decided to interview the parents from Dr. Sonney's study because she already had a relationship with these participants, they were easier to reach and more willing ot be interviewed. I also cold-emailed pediatricians in my area for interviews.
@@ -94,6 +97,7 @@ To gain insights into the potential customers' perspectives on IMPACT, I conduct
 ### Outcome
 The outcome of the interviews with potential customers was positive overall. The two parents who had used the app were enthusiastic about it and expressed their willingness to pay for it if it was available off the shelf. They had also suggested some design improvements during the usability studies. On the other hand, the pediatricians were more cautious and wanted to ensure the app's usefulness. They emphasized that the app should not add more data analysis to their job and preferred a solution that easily integrated into their existing workflow. This feedback provided valuable insights for Dr. Sonney's team.
 
+<hr>
 ## 5. Secondary Research
 ### Purpose
 I conducted market and competitive analysis alongside the interviews and surveys. The purpose of this analysis was to gain insights into IMPACT's product and business roadmap.
