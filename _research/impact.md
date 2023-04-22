@@ -38,28 +38,13 @@ I delivered a concrete 6 year product design and funding strategy based on exten
 
 These objectives gave rise to the following key questions and approach:
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/impact_approach.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+<img align="center" src="/assets/img/impact_approach.jpg" width="300" height="500">
 
 <hr>
 
 # Methodology
 <br>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/impact_methodology.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
+<img align="center" src="/assets/img/impact_methodology.jpg" width="300" height="500">
 ## 1. User Interview Review
 ### Purpose
 The goal was to understand the motivation behind the creation of the IMPACT app and who needed it. Dr. Sonney's team had already gathered data from interviews and usability studies, but the task was to recontextualize the findings in a business context using the lean business canvas.
