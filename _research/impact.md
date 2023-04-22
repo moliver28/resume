@@ -38,13 +38,14 @@ I delivered a concrete 6 year product design and funding strategy based on exten
 
 These objectives gave rise to the following key questions and approach:
 
-<img align="center" src="/assets/img/impact_approach.jpg" width="300" height="500">
+<img align="center" src="/assets/img/impact_approach.png">
 
 <hr>
 
 # Methodology
 <br>
-<img align="center" src="/assets/img/impact_methodology.jpg" width="300" height="500">
+<img align="center" src="/assets/img/impact_methodology.png">
+
 ## 1. User Interview Review
 ### Purpose
 The goal was to understand the motivation behind the creation of the IMPACT app and who needed it. Dr. Sonney's team had already gathered data from interviews and usability studies, but the task was to recontextualize the findings in a business context using the lean business canvas.
