@@ -2,7 +2,7 @@
 layout: page
 title: Project IMPACT
 description: I obtained a fellowship to develop a commercialization strategy for a novel asthma management app (IMPACT) for school-aged children.
-img: assets/img/12.jpg
+img:
 importance: 1
 category: work
 ---
