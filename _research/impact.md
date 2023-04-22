@@ -38,21 +38,9 @@ I delivered a concrete 6 year product design and funding strategy based on exten
 
 These objectives gave rise to the following key questions and approach:
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/impact_approach.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 <hr>
 
 # Methodology
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/impact_methodology.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 
 ## 1. User Interview Review
 ### Purpose
