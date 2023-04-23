@@ -2,7 +2,7 @@
 layout: page
 title: Sparse Transformer on FPGA
 description: Microsoft internship project
-img: /assets/img/food.jpg
+img: /assets/img/microsoft.jpg
 importance: 1
 category: machine learning
 ---
