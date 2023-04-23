@@ -35,7 +35,7 @@ The full transformer has limitations, particularly in terms of its memory and co
 
 <hr>
 
-#Incorporating Sparsity into Brainwave: Approach
+# Incorporating Sparsity into Brainwave: Approach
 Brainwave performs computation in the form of tiles consisting of matrices of input. My approach was to modify the tile engine such that it performs computation only on the tiles that have values in it.
 
 ## Objectives
@@ -44,3 +44,29 @@ Brainwave performs computation in the form of tiles consisting of matrices of in
 - Implement this method for any given arbitrary sparse pattern, regardless of sequence length.
 - Analyze the impact of different sparse patterns and their parameters (such as sequence length and window size) on the performance of the model.
 - Explore hardware and architectural changes that could be made to the existing functionality to further leverage sparsity and accelerate attention computation.
+
+## Results
+The results of this project demonstrate:
+- A significant decrease in latency when adding support for sparse computations to the attention mechanism. This decrease in latency is found to scale with sequence length and sparsity, indicating the potential for even greater improvements with larger and sparser datasets.
+
+- Some anomalous behavior and overhead within the context computation needed further investigation to ensure optimal performance. 
+- Packing dense tiles together has been identified as a means of saving VRF space, providing additional benefits in terms of resource utilization.
+
+Overall, these results offer promising insights into the potential of sparse computations to improve the efficiency and effectiveness of natural language processing models, paving the way for further research and development in this area.
+
+## Challenges
+
+This project encountered several challenges related to supporting large sequence lengths in BERT:
+
+- Limited memory in the BERT SKU makes it currently infeasible to support large sequence lengths.
+- All testing was done in an emulator with unrealistic VRF sizes, which could impact the accuracy and performance of the model in real-world scenarios.
+- The lack of a pre-trained model limited my ability to conduct a comprehensive analysis of the impact of increased sparsity on accuracy and model performance.
+
+Addressing these challenges will require further research and development, including the exploration of new hardware solutions and the creation of more comprehensive testing environments to better evaluate the impact of sparsity on model accuracy and performance.
+
+## Learnings
+This project offered several valuable learnings:
+
+- Modifying existing firmware to integrate a new model can be challenging but also rewarding and enjoyable.
+- There may be a tradeoff between the robustness offered by sparse patterns and computational performance, which needs to be carefully considered when designing and implementing sparse transformers.
+- The end-to-end process of breaking down a new model and porting it to hardware can be complex and challenging, but it provides a valuable engineering lesson on how to optimize performance and improve the efficiency of deep learning models on hardware platforms.
