@@ -9,7 +9,7 @@ category: machine learning
 
 # Goal
 
-The primary goals of this internship were to assess the feasibility of supporting sparse computations in Brainwave's BERT framework, with a specific focus on the Self Attention function. To achieve these objectives, the following tasks were performed:
+The primary goals of this internship were to assess the feasibility of supporting sparse computations in Brainwave's BERT framework. To achieve these objectives, the following tasks were performed:
 
 - Analyze the feasibility of supporting sparse computations within the Self Attention function of Brainwave's BERT framework.
 - Design, implement/modify, and test firmware to support sparse computations in BERT, ensuring seamless integration with the existing framework.
@@ -31,6 +31,16 @@ These multiplication ops form the bulk of the high latency computations performe
 <hr>
 
 # Sparse Transformers
-The full transformer has limitations, particularly in terms of its memory and computational requirements, which increase quadratically as the sequence length grows. Sparse Transformers refer to a variant of the transformer architecture that aims to reduce the computational complexity of the original model while maintaining or improving its performance. This is achieved by focusing on the most relevant parts of the input sequence, rather than processing the entire sequence at once. By using sparsity to limit the amount of information that needs to be processed, Sparse Transformers have shown promise in achieving state-of-the-art results on several natural language processing tasks with significantly reduced computation time and resource requirements.
+The full transformer has limitations, particularly in terms of its memory and computational requirements, which increase quadratically as the sequence length grows. sparse transformers refer to a variant of the transformer architecture that aims to reduce the computational complexity of the original model while maintaining or improving its performance. This is achieved by focusing on the most relevant parts of the input sequence, rather than processing the entire sequence at once. By using sparsity to limit the amount of information that needs to be processed, Sparse Transformers have shown promise in achieving state-of-the-art results on several natural language processing tasks with significantly reduced computation time and resource requirements.
 
 <hr>
+
+#Incorporating Sparsity into Brainwave: Approach
+Brainwave performs computation in the form of tiles consisting of matrices of input. My approach was to modify the tile engine such that it performs computation only on the tiles that have values in it.
+
+## Objectives
+
+- Develop a method for computing only the tiles comprising the lower triangular half of the attention score matrix, thus reducing computational requirements.
+- Implement this method for any given arbitrary sparse pattern, regardless of sequence length.
+- Analyze the impact of different sparse patterns and their parameters (such as sequence length and window size) on the performance of the model.
+- Explore hardware and architectural changes that could be made to the existing functionality to further leverage sparsity and accelerate attention computation.
