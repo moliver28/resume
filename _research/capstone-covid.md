@@ -35,7 +35,6 @@ The COVID-19 pandemic led to preventative measures such as social distancing, re
 The study involved two cohorts of students who participated in the design (ENGINE) capstone in 2018 and 2020. The ENGINE capstone is a 20-week program consisting of two quarters, with about 115 students, most of whom are electrical and computer engineering majors. The program offers about 35 projects, with 90% of them being sponsored by industry. During the program, students develop and scope a project proposal with their industry mentors in the first quarter, and in the second quarter, they work on project realization until the end of the program. Due to the COVID-19 pandemic, the Spring quarter of the capstone design experience shifted to remote learning, and all meetings with TAs and mentors, project presentations, and poster fair were conducted virtually.
 
 # Methodology
-<br>
 The study used multiple sources of data. Ordinal data was collected from student surveys using a Likert scale to understand how various aspects of the course contributed to student learning. In addition to surveys, qualitative data was used from two major documents submitted by student design teams during Spring 2020: a COVID mitigation plan submitted at the beginning of the quarter, and a final project report that described how the pandemic had affected their project.
 
 
