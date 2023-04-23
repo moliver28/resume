@@ -12,9 +12,6 @@ category: work
 - competitive analysis
 - customer segmentation
 
-## Result
-I delivered a concrete 6 year product design and funding strategy based on extensive user and stakeholder research and product and industry analysis. Based on my research, I also suggested key MVP (minimum viable product) requirements and constraints that can guide further development of the prototype.
-
  <div class="row">
                 <div class="col-3">
                   <h3 class="fact-title">Role</h3>
@@ -29,6 +26,11 @@ I delivered a concrete 6 year product design and funding strategy based on exten
                   <p class="fact-fact">June - Aug 2022 (10 weeks)</p>
                 </div>
               </div>
+<hr>
+
+## Result
+I delivered a concrete 6 year product design and funding strategy based on extensive user and stakeholder research and product and industry analysis. Based on my research, I also suggested key MVP (minimum viable product) requirements and constraints that can guide further development of the prototype.
+
 <hr>
 
 # Key Research Objectives and Approaches
