@@ -85,8 +85,11 @@ Students used a variety of strategies to overcome challenges in team roles and s
 </div>
 
 <hr>
+## Limitations
+The study examines the perspectives of engineering students during a pandemic-adapted capstone design experience at a single institution. While the study provides a set of factors that measure student perceptions of learning, the low response rate and potential for self-selection bias in the survey results limits their generalizability. The qualitative analysis is limited by the subjectivity of the researcher, who was also a teaching assistant for the capstone program. However, the study offers valuable insights into how students adapt to crisis circumstances that can inform future capstone and engineering design instruction.
+<hr>
 ## Impact
-
+The study suggests that college seniors are capable of adapting to sudden changes in their education and design trajectories, which opens up possibilities for offering dynamic and real-world experiences for undergraduate education. However, while students showed significant resilience in the face of the pandemic, many also admitted to the toll it took on their mental health. The study highlights the importance of providing appropriate instructional support and adjustment in summative assessments, while also acknowledging the price paid for resilience that cannot be neglected. Overall, the study emphasizes the need for a balance between academic rigor and student well-being.
 
 <hr>
 
