@@ -91,5 +91,7 @@ The study examines the perspectives of engineering students during a pandemic-ad
 The study suggests that college seniors are capable of adapting to sudden changes in their education and design trajectories, which opens up possibilities for offering dynamic and real-world experiences for undergraduate education. However, while students showed significant resilience in the face of the pandemic, many also admitted to the toll it took on their mental health. The study highlights the importance of providing appropriate instructional support and adjustment in summative assessments, while also acknowledging the price paid for resilience that cannot be neglected. Overall, the study emphasizes the need for a balance between academic rigor and student well-being.
 
 <hr>
+## Further Reading
+The study was published in proceedings for ASEE 2021 and can be found <a href = "https://peer.asee.org/industry-university-capstone-design-how-did-students-adapt-to-the-covid-19-pandemic">here</a>
 
 
