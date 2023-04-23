@@ -35,7 +35,7 @@ The full transformer has limitations, particularly in terms of its memory and co
 
 <hr>
 
-# Incorporating Sparsity into Brainwave: Approach
+# Project Approach
 Brainwave performs computation in the form of tiles consisting of matrices of input. My approach was to modify the tile engine such that it performs computation only on the tiles that have values in it.
 
 ## Objectives
