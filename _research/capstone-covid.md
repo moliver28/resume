@@ -44,10 +44,15 @@ To conduct the study, the researchers used multiple sources of data. They collec
 To understand how learning was impacted during COVID-19, the first step was to define what students perceived that they learned during the capstone. To do so, I collaborated with he College of Engineering's Engineering Teaching and Learning department to design a survey that would be administered to students during the capstone. The goal of the survey was to collect large-scale quantitative data to obtain factors that impacted student's perceptions of learning.
 
 ### Method
-The survey was conducted online, mid-way through the Spring 2018 and Spring 2020 quarters. It enabled students to self-report which aspects of the program aided or inhibited student learning. A total of 96 students were surveyed in 2018, with a response rate of 26%, while 115 students were surveyed in 2020, with a response rate of 69%. Participation was voluntary, and no identifying information was collected. The study did not oversample women or minorities, and all results are cross-sectional. The data was analyzed using an Exploratory Factor Analysis (EFA) in R.
+The survey was conducted online, mid-way through the Spring 2018 and Spring 2020 quarters. It enabled students to self-report which aspects of the program aided or inhibited student learning. A total of 96 students were surveyed in 2018, with a response rate of 26%, while 115 students were surveyed in 2020, with a response rate of 69%. Participation was voluntary, and no identifying information was collected. All results are cross-sectional. Factors measuring students' perceptions of learning emerged from an Exploratory Factor Analysis in R. These factors were compared for survey responses pre and post COVID-19 using independent sample t-tests.
 
 ### Outcome
-Thirteen survey items were analyzed using exploratory factor analysis. The analysis revealed four factors: "Real-world Experience", "Assessment", "Instructional Support", and "Task Value" that impacted students' perceptions of learning. These factors accounted for 76% of the total variance and showed adequate reliability (Cronbach's alpha > 0.7). The "Real-world Experience" factor included three items related to the Project, Teamwork, and Experiential aspects of ENGINE. The "Assessment" factor consisted of items associated with student Presentations, Evaluations, and Feedback. The "Instructional Support" factor contained three items related to faculty, instructor, and TA guidance. The "Task Value" factor consisted of two items measuring students' Expectation and Appreciation for the capstone.
+Thirteen survey items were analyzed using exploratory factor analysis. The analysis revealed four factors: "Real-world Experience", "Assessment", "Instructional Support", and "Task Value" that impacted students' perceptions of learning. These factors accounted for 76% of the total variance and showed adequate reliability (Cronbach's alpha > 0.7). 
+
+The "Real-world Experience" factor included items associated with experiential learning. The "Assessment" factor consisted of items associated with student assignments such as presentations and evaluation. The "Instructional Support" factor contained three items related to faculty, instructor, and TA guidance. The "Task Value" factor consisted of two items measuring students' expectations and appreciation for the capstone.
+
+Surprising, independent sample t-tests did not find any significant differences differences between traditional and remote learning. This gave rise to the hypothesis that lack of significant difference maybe because students adapted rapidly to the remote learning disruption. To explore this hypothesis, we analyzed qualitative data from student assignments and open-ended questions in the survey.
+
 <hr>
 ## 2. Evaluative Interviews
 ### Purpose
@@ -63,19 +68,7 @@ Thirteen survey items were analyzed using exploratory factor analysis. The analy
 <hr>
 ## Impact
 
-This fellowship yielded significant outcomes, as I transformed IMPACT from a research product to a potentially market-ready solution. I achieved this by:
-
-- Identifying parents and providers as the ideal target customers for IMPACT, effectively communicating this to Dr. Sonney and paving the way for successful product development.
-- Providing compelling, evidence-based arguments against seeking regulatory approval, which ultimately saved valuable time and resources.
-- Determining the necessary design requirements and constraints for creating a Minimum Viable Product (MVP), ensuring a successful potential product.
-- Offering valuable design recommendations for optimizing IMPACT for providers.
-- Creating a comprehensive "best case" 6-year commercialization plan for IMPACT, including recommendations for various funding options, setting the groundwork for long-term success.
 
 <hr>
-## Learnings
 
-My experience in this fellowship provided an incredible opportunity for me to gain extensive knowledge about designing and scaling technology in the mobile health industry, specifically when working within regulatory constraints. In my <a href = "https://medium.com/@shrutimisra/learnings-about-mobile-health-innovation-a5d3e914f0c7">reflection</a>, I have organized my learnings about the industry and highlighted some key takeaways.
 
-One significant learning was the importance of persistence, especially when faced with challenges. For instance, when the survey method failed to produce the desired results despite reaching out to audiences through social media and personal networks, I realized the value of pursuing alternative methods like evaluative interviews. This decision turned out to be a blessing in disguise, as it helped me identify gaps in my survey questions and iterate over survey design for future use.
-
-Although this project was not solely focused on product design, it provided me with a great perspective on how business goals can drive product goals and vice versa. This un
