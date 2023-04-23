@@ -3,7 +3,7 @@ layout: page
 title: Engineering Design Education During COVID-19
 description: As part of my dissertation research I studied the difference between student design experiences pre and post COVID-19
 img: /assets/img/engine.jpeg
-importance: 1
+importance: 2
 category: work
 ---
 
