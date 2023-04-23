@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-The COVID-19 pandemic led to preventative measures such as social distancing, resulting in many higher education institutions closing their campuses and transitioning to remote learning. While remote instruction can be beneficial, the sudden shift to online learning during the pandemic was not comparable to traditional online teaching models, which require prior planning and preparation. Consequently, the educational experience for students may have been compromised, despite instructors' intensive preparations. However, not much attention has been given to how students adapted and demonstrated resilience during the pandemic. This study focused on the industry-sponsored design capstone at a large public research institution to understand how students perceived, adapted to, and mitigated the impact of the pandemic.
+The COVID-19 pandemic led to preventative measures such as social distancing, resulting in many higher education institutions closing their campuses and transitioning to remote learning. While remote instruction can be beneficial, the sudden shift to online learning during the pandemic was not comparable to traditional online teaching models, which require prior planning and preparation. Consequently, the educational experience for students may have been compromised, despite instructors' intensive preparations. However, not much attention has been given to how students adapted and demonstrated resilience during the pandemic. **This study focused on the industry-sponsored design capstone at a large public research institution to understand how students perceived, adapted to, and mitigated the impact of the pandemic.**
 
  <div class="row">
                 <div class="col-3">
@@ -59,16 +59,30 @@ Surprising, independent sample t-tests did not find any significant differences 
 The quantitative results from the survey highlighted that there was no difference in students' perceptions of learning in the traditional vs. remote environment. This was surprising given the fact that in the remote setting students had to pivot to doing hands-on project work online. A qualitative approach was deemed suitable to identify common themes among the unique and varied experiences of the 35 student teams during the pandemic. To achieve this, the final project reports and COVID-19 mitigation plan assignments of each team were analyzed. The reports contained technical and non-technical aspects of the projects, while the mitigation plan assignments detailed how the teams would adapt to the remote setting and if they needed additional resources.
 
 ### Method
-The two sources of qualitatice data were analyzed using an inductive approach to identify emergent themes. The constant comparative approach was then employed to establish and refine boundaries to the categories and summarize their content. Finally, the categories were compared across different sources of data to identify patterns in the students' experience during the capstone program.
+The two sources of qualitative data were analyzed using an inductive approach to identify emergent themes. The constant comparative approach was then employed to establish and refine boundaries to the categories and summarize their content. Finally, the categories were compared across different sources of data to identify patterns in the students' experience during the capstone program.
 
 ### Outcome
-The qualitative analysis found that the ENGINE capstone experience for students was affected by the COVID-19 pandemic in three basic ways: product adaptations, process adaptations, and no change. Of the 35 projects analyzed, 71.4% underwent some change, while 28.6% faced no changes. Product adaptations were experienced by 42.8% of projects, while 28.6% underwent process adaptations. The study suggests that COVID-19 caused major disruptions to the traditional student experience of the capstone program, despite the absence of significant differences in student perceptions.
+The qualitative analysis found that the ENGINE capstone experience for students was affected by the COVID-19 pandemic in three basic ways: product adaptations, process adaptations, and no change. The study suggests that COVID-19 caused major disruptions to the traditional student experience of the capstone program, despite the absence of significant differences in student perceptions.
 
 - **Product Adaptations:** Half of the capstone projects had to adapt due to the pandemic by reducing their project scope, switching from physical to software prototypes, or forgoing subsystem integration. The inability to access labs and equipment was the main reason for these adaptations, especially for hardware-leaning projects. Hindered communication and collaboration, difficulty in transporting hardware, and shipping delays were also factors. Teams adapted by recalibrating and reducing expectations, changing project deliverables, and relying on lab space and different retailers for parts.
 
 - **Process Adaptations:** Around 28.6% of projects had to adapt their design process due to pandemic-related constraints, such as lack of access to lab resources, closure of data collection and testing sites, shipping delays, and hindered communication. Teams resorted to using limited datasets for testing, reducing expectations for project deliverables, and changing the methods of proving their system works. Some students raised concerns regarding reduced work efficiency and team coordination, as well as the difficulty of expressing ideas remotely as challenges that hindered their process. 
 
 - **No Change:** About one-third of the projects in the capstone were not affected by the pandemic because they were purely software-based, which allowed them to work remotely and share resources easily. The only challenge these teams faced was the switch to remote interaction and time zone changes for some team members and industry mentors 
+
+<img align="center" src="/assets/img/engine2.png" width="600" height="300">
+<div class="caption">
+    A mapping of COVID-19 constraints and project changes. Numbers indicate the number of projects in each category
+</div>
+
+### How did students adapt?
+
+Students used a variety of strategies to overcome challenges in team roles and structure, tools and technology, technical changes, resource coordination, and communication. Students used independent roles, screen sharing, project management tools, messaging platforms, and creative technical solutions to complete their projects. They also increased meeting frequency to stay engaged and ensure everyone remained on track. Despite the pandemic disruptions, student perceptions of learning were not different across the remote and traditional setting, as students mitigated the effects of the pandemic by adapting their strategies and decisions to the uncertain environment.
+
+<img align="center" src="/assets/img/engine2.png" width="600" height="300">
+<div class="caption">
+    Student adaptations to project changes due to COVID-19
+</div>
 
 <hr>
 ## Impact
