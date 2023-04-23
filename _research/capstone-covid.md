@@ -70,7 +70,7 @@ The qualitative analysis found that the ENGINE capstone experience for students 
 
 - **No Change:** About one-third of the projects in the capstone were not affected by the pandemic because they were purely software-based, which allowed them to work remotely and share resources easily. The only challenge these teams faced was the switch to remote interaction and time zone changes for some team members and industry mentors 
 
-<img align="center" src="/assets/img/engine2.png" width="700" height="400">
+<img align="center" src="/assets/img/engine2.png" width="500" height="400">
 <div class="caption">
     A mapping of COVID-19 constraints and project changes. Numbers indicate the number of projects in each category
 </div>
@@ -79,7 +79,7 @@ The qualitative analysis found that the ENGINE capstone experience for students 
 
 Students used a variety of strategies to overcome challenges in team roles and structure, tools and technology, technical changes, resource coordination, and communication. Students used independent roles, screen sharing, project management tools, messaging platforms, and creative technical solutions to complete their projects. They also increased meeting frequency to stay engaged and ensure everyone remained on track. Despite the pandemic disruptions, student perceptions of learning were not different across the remote and traditional setting, as students mitigated the effects of the pandemic by adapting their strategies and decisions to the uncertain environment.
 
-<img align="center" src="/assets/img/engine3.png" width="500" height="400">
+<img align="center" src="/assets/img/engine3.png" width="650" height="400">
 <div class="caption">
     Student adaptations to project changes due to COVID-19
 </div>
