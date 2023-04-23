@@ -50,7 +50,7 @@ Thirteen survey items were analyzed using exploratory factor analysis. The analy
 
 The "Real-world Experience" factor included items associated with experiential learning. The "Assessment" factor consisted of items associated with student assignments such as presentations and evaluation. The "Instructional Support" factor contained three items related to faculty, instructor, and TA guidance. The "Task Value" factor consisted of two items measuring students' expectations and appreciation for the capstone.
 
-Surprising, independent sample t-tests did not find any significant differences differences between traditional and remote learning. This gave rise to the hypothesis that lack of significant difference maybe because students adapted rapidly to the remote learning disruption. To explore this hypothesis, we analyzed qualitative data from student assignments.
+Surprisingly, independent sample t-tests did not find any significant differences differences between traditional and remote learning. This gave rise to the hypothesis that lack of significant difference maybe because students adapted rapidly to the remote learning disruption. To explore this hypothesis, we analyzed qualitative data from student assignments.
 
 <hr>
 ## 2. Qualitative Analysis
