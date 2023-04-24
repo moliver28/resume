@@ -22,6 +22,10 @@ The COVID-19 pandemic led to preventative measures such as social distancing, re
                   <h3 class="fact-title">Timeline</h3>
                   <p class="fact-fact">June 2020 - March 2021</p>
                 </div>
+                  <div class="col-3">
+                  <h3 class="fact-title">Study Design</h3>
+                  <p class="fact-fact">Mixed-Methods</p>
+                </div>
               </div>
 <hr>
 
