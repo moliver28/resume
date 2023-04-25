@@ -2,7 +2,7 @@
 layout: page
 title: Student Needs in Engineering Design Capstones
 description: I studied the relationship between support students received from their teammates and industry mentors and learning outcomes in design capstones.
-img: /assets/img/engine.jpeg
+img: /assets/img/capstone2.jpeg
 importance: 2
 category: work
 ---
