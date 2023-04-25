@@ -50,7 +50,7 @@ The goal of using close-ended questions was to pinpoint the essential factors ne
 ### Method
 Since all survey items were either adapted to or newly developed for this capstone setting, an exploratory factor analysis (EFA) was conducted in R. The EFA helped to identify learning outcomes, independent variables, and control variables. A linear regression model was then utilized to investigate the relationship between the dependent, independent, and control variables identified from the EFA.
 
-### Outcome
+### Outcomes
 The outcome of the exploratory factor analysis (EFA) revealed two distinct factors related to student learning in the capstone setting. The first factor, named "Engineering Design and Decision-Making," highlighted students' perceptions of their ability to learn more about systems engineering, ethical implications of design, and decision-making. The second factor, labeled "Adaptability," focused on students' ability to manage changes in project scope, deal with ambiguity, and obtain necessary information to move forward. Together, these two factors accounted for a total variance of 70.5%, which exceeded the desired threshold of 60%.
 
 The EFA also resulted in four factors associated with students' sense of support and other controlling variables: design self-efficacy, preparedness, teammate support, and industry mentor support. These factors represented a total variance of 72.1%, exceeding the desired threshold of 60%. The analysis identified specific areas where students perceived their skills and support to be strongest, providing valuable insight for improving the capstone experience.
@@ -74,6 +74,23 @@ To understand and explain the relationship between the independent, dependent an
 ### Method
 The method used for the thematic analysis of the qualitative data involved a deductive coding process, which categorized student responses into perceptions of support, design self-efficacy, and preparedness for each of the learning outcomes. This was followed by frequency analyses to generate counts within different categories for each learning outcome, allowing for a better understanding of the relationship between the dependent and independent variables. 
 
-### Outcome
+### Outcomes
+- **Teammate support:** The study found that in engineering design and decision-making, students rely heavily on teammate support for solving technical problems, achieving goals, brainstorming ideas, balancing designs, and adapting to challenges. Students emphasized the importance of effective project management, organizational structure, and communication among team members. 
+- **Industry mentor support:** Industry mentor support played a significant role in students' adaptability, with technical feedback and flexibility being the two most prominent aspects. Having an involved mentor who could provide feedback and approve out-of-the-box ideas helped students adapt to changes and solve problems effectively. However, delayed mentor support could also negatively impact project outcomes. While not statistically significant, students also looked to mentors for high-level support and well-defined expectations, allowing them to design with more clarity.
+- **Preparedness:** Two aspects of preparedness - technical and project plan - are important to students' perceptions of engineering design, decision-making, and adaptability. Students who felt more prepared for their project were able to organize their team's direction more effectively. Preparedness also mediated the relationship between teammate support and engineering design and decision-making such that students who felt more technically prepared for the project could better support their team. Also, Industry mentor support emerged as being vital to preparing students to
+adapt to unforeseen changes by providing a concrete vision of the project goals.
+- **Design self-efficacy:** The ability to self-learn and apply new knowledge was found to be key to positive perceptions of engineering design, as students were able to pivot their problem framing and access online resources to overcome technical challenges. However, some students expressed frustration with the burden of self-learning and a lack of teammate or industry mentor support. 
+<hr>
+
+# Limitations
+The study focuses on the role of support, design self-efficacy, and preparedness on learning outcomes in a single institution, which limits its generalizability to other academic settings. The qualitative analysis is subject to researcher subjectivity, but the use of open-ended questions serves as triangulation. One of the authors' positionality as a teaching assistant may have influenced the interpretation of the themes. Despite these limitations, the study offers valuable insight into how teammate and industry mentor support influence students' perceptions of the technical and non-technical skills gained during the capstone.
 
 <hr>
+
+# Impact & Future Work
+We found that teammate and industry mentor support as critical elements of students’ capstone design experience. Design self-efficacy and preparedness play an important role in controlling for the impact of support on learning. Therefore, capstone instructors should prioritize developing structured ways to facilitate teammate and industry mentor support. 
+
+- Evidence-based best practices should be developed, which enable industry mentors to support students while fulfilling their goals and motivations for participating in capstone programs.
+- Capstone instructors should consider developing interventions that help students feel supported by their teammates through alignment in expectations, expertise, and communication.
+- Further, instructors and course designers should ensure that students feel technically supported throughout the capstone by having the appropriate educational resources and help.
+- Instructors should impart effective collaborative project planning and management strategies so that students can develop a clear understanding of their project in conjunction with their teammates and industry mentors early in the project cycle.
