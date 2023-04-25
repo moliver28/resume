@@ -66,7 +66,7 @@ Similarly, the final model for adaptability had an adjusted R^2 of 0.55, indicat
 
 The analysis also identified two significant interaction effects between the independent variables. In the first model (for engineering design and decision-making), interactions between preparedness and teammate support were significant, indicating that teammate support played a more significant role in students' engineering design and decision-making skills when they did not feel well-prepared for the project. Likewise, in the second model (for adaptability), the interaction between preparedness and industry support was significant, indicating that industry mentor support had a stronger impact on students' adaptability skills when they felt less prepared for their projects. These findings provide valuable insights into the factors that influence students' engineering design and decision-making and adaptability in the capstone setting.
 
-
+<hr>
 ## Open-Ended Questions (Qualitative)
 ### Purpose
 To understand and explain the relationship between the independent, dependent and controlling variables, a qualitative analysis of the open-ended survey questions was conducted. 
