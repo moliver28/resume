@@ -1,7 +1,8 @@
 ---
-layout: page
-title: 
+layout: default
+permalink: /cv/
+title: cv
+nav: true
 order: 5
-redirect: https://github.com/shruti-misra/shruti-misra.github.io/tree/master/assets/pdf/ShrutiMisra_General.pdf
+redirect_to: /assets/pdf/ShrutiMisra_General.pdf
 ---
-
