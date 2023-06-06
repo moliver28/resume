@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intro to Interpretable AI
+title: Interpretable AI: Linear Regression
 description:
 img: /assets/img/interpret_ai_lr.png
 redirect: https://medium.com/@shrutimisra/interpretable-ai-linear-regression-dbeafbf04db7
