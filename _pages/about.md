@@ -13,7 +13,7 @@ news: false  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m a researcher and data scientist focused on solving problems at the intersection of technology and business.
+I’m a researcher and a data scientist focused on solving problems at the intersection of technology and business.
 
 I currently:
 
