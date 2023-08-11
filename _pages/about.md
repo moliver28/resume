@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <b>Researcher | Data Scientist | Educator</b>
+description: <b> Data Scientist | Researcher | Educator</b>
 
 profile:
   align: right
