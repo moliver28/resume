@@ -21,9 +21,9 @@ Currently I:
 
 Recently I:
 
-- Was a venture analyst for <a href = "https://www.packvc.com/">Pack Ventures</a>
-- Led the <a href = "https://www.ece.uw.edu/entrepreneurship/entrepreneurial-capstone/">senior engineering design capstone program</a> at the University of Washington, Department of Electrical and Computer Engineering
-- Worked on commercializing a childhood asthma management app as part of the <a href = "https://www.iths.org/education/graduate/commercialization-fellowship/">  WRF/ITHS Summer Commercilization program</a>
+- Was a venture analyst for <a href = "https://www.packvc.com/">Pack Ventures</a>.
+- Led the <a href = "https://www.ece.uw.edu/entrepreneurship/entrepreneurial-capstone/">senior engineering design capstone program</a> at the University of Washington, Department of Electrical and Computer Engineering.
+- Worked on commercializing a childhood asthma management app as part of the <a href = "https://www.iths.org/education/graduate/commercialization-fellowship/">  WRF/ITHS Summer Commercilization program</a>.
 - Helped startups in the  <a href = "https://creativedestructionlab.com/locations/seattle/">Creative Destruction Labs accelerator</a> with go-to-market.
 
 A little while ago I: 
