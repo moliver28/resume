@@ -13,11 +13,11 @@ news: false  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m a <a href = "https://shruti-misra.github.io/data-science/"data scientist</a> and a researcher focused on solving problems at the intersection of technology and business.
+I’m a <a href = "https://shruti-misra.github.io/data-science/">data scientist</a> and a researcher focused on solving problems at the intersection of technology and business.
 
 Currently I:
 
-- Research how public-private partnerships help commercialize clean energy technologies starting from the lab to the demonstration stage
+- Research how public-private partnerships help commercialize <a href = "https://www.nrel.gov/news/program/2021/an-evolving-dictionary-for-an-evolving-grid-defining-long-duration-energy-storage.html#:~:text=There%20is%20no%20single%20definition,firm%20capacity%20to%20the%20grid.">long duration energy storage technologies</a> starting from the lab to the demonstration stage.
 
 Recently I:
 
