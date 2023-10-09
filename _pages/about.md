@@ -33,4 +33,4 @@ A little while ago I:
 - Built IoT applications for a portable hybrid solar inverter for a startup (Athena Energy Corp: now defunct).
 - Led <a href = "https://www.washington.edu/boundless/powering-promise/">a project</a> at UW Solar to assess the feasibility of installing solar panels on Agua Verde Cafe and Paddle Club. 
 
-When I'm not obsessing over research, you can find me taking long city walks in search of bakeries and coffee, baking, trying to get good at <a href = "https://shruti-misra.github.io/ps/">music/drums or above all reading a book!</a>.
+When I'm not obsessing over research, you can find me taking long city walks in search of bakeries, baking, trying to get good at <a href = "https://shruti-misra.github.io/ps/">music/drums or above all reading a book!</a>.
