@@ -29,7 +29,7 @@ Recently I:
 - Helped startups in the  <a href = "https://creativedestructionlab.com/locations/seattle/">Creative Destruction Labs accelerator</a> with go-to-market.
 
 A little while ago I: 
-- Used GPS sensor and magnetometer data to locate an underwater remotely operated vehicle (ROV) <a href = "https://www.ece.uw.edu/spotlight/entrepreneurial-students-present-project-at-booz-allen-hamilton-idea-fest/">in association with Booz Allen Hamilton</a>.
+- Used GPS sensor and magnetometer data to locate an underwater remotely operated vehicle (ROV) <a href = "https://www.ece.uw.edu/spotlight/entrepreneurial-students-present-project-at-booz-allen-hamilton-idea-fest/">, mentored by Booz Allen Hamilton</a>.
 - Built IoT applications for a portable hybrid solar inverter for a startup (Athena Energy Corp: now defunct).
 - Led <a href = "https://www.washington.edu/boundless/powering-promise/">a project</a> at UW Solar to assess the feasibility of installing solar panels on Agua Verde Cafe and Paddle Club. 
 
