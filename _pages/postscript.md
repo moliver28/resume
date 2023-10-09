@@ -14,12 +14,12 @@ nav: true
 <img align="right" src="/assets/img/bookshop.png" width = "400" height = "500">
 
 ### Currently reading.... 
-- Neverwhere by Neil Gaiman
+- Caves of Steel: Issac Asimov
 
 <hr>
 
 ### Books
-- The Code: Margaret O'Mara
+- Thinking Fast and Slow: Daniel Kahneman
 - Night Circus: Erin Morgenstern
 - A Gentleman in Moscow: Amor Towles
 
