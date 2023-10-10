@@ -13,9 +13,11 @@ news: false  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-<em>"Always go a little further into the water than you feel you’re capable of being in. Go a little bit out of your depth. And when you feel that your feet aren’t quite touching the bottom, you’re just about in the right place to do something exciting” -David Bowie</em>
+<em>"Always go a little further into the water than you feel you’re capable of being in. Go a little bit out of your depth. And when you feel that your feet aren’t quite touching the bottom, you’re just about in the right place to do something exciting” 
+-David Bowie</em>
 
-Following the words of one of my favourite artists David Bowie, I find inspirtation in pursuing exciting opportunities thatallow me to leave a positive impact on people's lives. I care about elevating people's lives through projects that promote people's <a href = "https://shruti-misra.github.io/research/">well-being and education</a>, make this planet more sustainable and bring bring joy through artistic expression. A common thread in all these pursuits is my deep appreciation for the power of <a href = "https://shruti-misra.github.io/data-science/"> data </a>, which I use to inform decisions and drive positive change. From research in health and education to sustainable living initiatives and artistic endeavors, my goal is to leave a lasting impact on society, echoing Bowie's call to embrace exciting opportunities that make a difference. 
+Following the words of one of my favourite artists David Bowie, I find inspirtation in pursuing exciting opportunities that allow me to leave a positive impact on people's lives. I care about elevating people's lives through projects that promote <a href = "https://shruti-misra.github.io/research/">well-being and education </a>, make this planet more sustainable and bring bring joy through artistic expression. A common thread in all these pursuits is my deep appreciation for the power of <a href = "https://shruti-misra.github.io/data-science/"> data </a>, which I use to inform decisions and drive positive change. 
+From research in health, education, and energy along with pursuing artistic endeavors, my goal is to leave a lasting impact on society, echoing Bowie's call to embrace exciting opportunities that make a difference. 
 
 Currently I:
 
