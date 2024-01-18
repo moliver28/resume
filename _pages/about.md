@@ -14,8 +14,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I find inspirtation in pursuing exciting opportunities that allow me to leave a positive impact on people's lives. I care about elevating people's lives through projects that promote <a href = "https://shruti-misra.github.io/research/">well-being and education </a>, and make this planet more sustainable. A common thread in all these pursuits is my deep appreciation for the power of <a href = "https://shruti-misra.github.io/data-science/"> data </a>, which I use to inform decisions and drive positive change. 
-From research in health, education, and energy along with pursuing artistic endeavors, my goal is to leave a lasting impact on society, echoing Bowie's call to embrace exciting opportunities that make a difference. 
+ I am researcher, specializing in studying innovation in grid-scale long-duration energy storage, I bring knowledge in electricity markets and analyzing technologies for a cleaner grid. My expertise lies in planning and executing quantitative and qualitative research, data analysis, Python, SQL, inferential statistics, data visualization (Tableau, Altair), machine learning and communicating research findings across diverse audiences. With a proven track record in market and product research across industries, and 6 years of education program management experience, I excel at aligning research goals with business objective and deriving actionable insights from data to drive impact.
 
 Currently I:
 
