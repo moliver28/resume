@@ -14,7 +14,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Following the words of one of my favourite artists David Bowie, I find inspirtation in pursuing exciting opportunities that allow me to leave a positive impact on people's lives. I care about elevating people's lives through projects that promote <a href = "https://shruti-misra.github.io/research/">well-being and education </a>, and make this planet more sustainable. A common thread in all these pursuits is my deep appreciation for the power of <a href = "https://shruti-misra.github.io/data-science/"> data </a>, which I use to inform decisions and drive positive change. 
+I find inspirtation in pursuing exciting opportunities that allow me to leave a positive impact on people's lives. I care about elevating people's lives through projects that promote <a href = "https://shruti-misra.github.io/research/">well-being and education </a>, and make this planet more sustainable. A common thread in all these pursuits is my deep appreciation for the power of <a href = "https://shruti-misra.github.io/data-science/"> data </a>, which I use to inform decisions and drive positive change. 
 From research in health, education, and energy along with pursuing artistic endeavors, my goal is to leave a lasting impact on society, echoing Bowie's call to embrace exciting opportunities that make a difference. 
 
 Currently I:
