@@ -5,5 +5,5 @@ description:
 img: /assets/img/interpret_ai_lr.png
 redirect: https://medium.com/@shrutimisra/interpretable-ai-logistic-regression-55ca3c2dd1ca
 importance: 1
-category: machine learning
+category: data analysis and interpretation
 ---
