@@ -5,5 +5,5 @@ description:
 img: /assets/img/footprint.jpeg
 redirect: https://databutton.com/v/gotqgif3
 importance: 1
-category: data visualization
+category: interactive visualization
 ---
