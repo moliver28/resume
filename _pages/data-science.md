@@ -5,7 +5,7 @@ order: 1
 permalink: /data-science/
 description:
 nav: true
-display_categories: [machine learning, data visualization, fun]
+display_categories: [data analysis and interpretation, machine learning, data visualization, business and research case studies, fun]
 horizontal: false
 ---
 <div class="projects">

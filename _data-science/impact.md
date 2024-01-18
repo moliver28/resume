@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Project IMPACT
-description: I was awarded a fellowship to develop a strategy for commercializing a new asthma management application (IMPACT) that targets school-aged children.
+description: Business strategy case study for commercializing a new childhood asthma management application (IMPACT).
 img: /assets/img/kid_asthma.jpg
 importance: 1
-category: work
+category: business and research case studies
 ---
+
 
 <a href = "https://nursing.uw.edu/person/jennifer-sonney/">Dr. Jen Sonney</a> at the University of Washington's School of Nursing had developed a prototype for a new asthma management app (IMPACT) in collaboration with children with asthma and their parents. She wanted to take the app to market but needed some help. As a sole researcher for this project I conducted: 
 - user and stakeholder interviews
