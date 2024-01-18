@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sparse Transformer on FPGA
-description: Microsoft internship project
+title: Sparse Transformers on FPGA
+description: Microsoft internship project where I developed and assessed the feasibility of sparse computations on BERT run on FPGAs
 img: /assets/img/microsoft.jpg
 importance: 1
 category: machine learning
