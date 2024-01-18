@@ -7,21 +7,16 @@ importance: 1
 category: machine learning
 ---
 
-# Goal
+# Problem
 
-The primary goals of this internship were to assess the feasibility of supporting sparse computations in Brainwave's BERT framework. To achieve these objectives, the following tasks were performed:
+Microsoft's cloud-based platform for real-time AI serving, Brainwave, uses high-performance field-programmable gate arrays (FPGAs) to accelerate inferencing. Project Brainwave inferencing for services such as Bing and Azure. For this internship, my team, which served Bing wanted to know whether inferencing could be further accelerated by supporting sparse computations in Brainwave's BERT framework. To address this, I performed the following tasks:
 
-- Analyze the feasibility of supporting sparse computations within the Self Attention function of Brainwave's BERT framework.
-- Design, implement/modify, and test firmware to support sparse computations in BERT, ensuring seamless integration with the existing framework.
-- Identify and suggest ways to extend the architecture to better support sparsity, thus improving the overall performance of the framework.
+- Analyzed the feasibility of supporting sparse computations within the Self Attention function of Brainwave's BERT framework.
+- Designed, implement/modify, and test firmware to support sparse computations in BERT, ensuring seamless integration with the existing framework.
+- Identified and suggest ways to extend the architecture to better support sparsity, thus improving the overall performance of the framework.
 
-Through these tasks, we aimed to enhance the capabilities of Brainwave's BERT framework, ultimately improving its efficiency and effectiveness in handling sparse computations.
+Through these tasks, I demonstrated the speed gains and latency reductions for the existing BERT framework if sparse computations were used. However, I also identified limitations that needed to be addressed before putting sparse computations into production.
 
-<hr>
-
-# What is Brainwave?
-Microsoft's cloud-based platform for real-time AI serving, Brainwave, offers accelerated deep neural network (DNN) inferencing powered by high-performance field-programmable gate arrays (FPGAs). This advanced technology enables the platform to perform complex computations efficiently, making it a valuable tool for deep learning applications. Project Brainwave currently serves DNNs in real
-time for production services such as Bing and Azure
 
 <hr>
 # What is BERT?
@@ -36,7 +31,7 @@ The full transformer has limitations, particularly in terms of its memory and co
 
 <hr>
 
-# Project Approach
+# Solution Approach
 Brainwave performs computation in the form of tiles consisting of matrices of input. My approach was to modify the tile engine such that it performs computation only on the tiles that have values in it.
 
 ## Objectives
