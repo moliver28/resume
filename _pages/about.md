@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <b> PhD, University of Washington</b>
+description: <b> Ph.D., University of Washington</b>
 
 profile:
   align: right
