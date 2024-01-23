@@ -14,7 +14,6 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Trained as an data scientist and computer engineer, I have an extensive background working with varied datasets and using advanced statistical and machine learning methods. I also enjoy storytelling by building interactive data visualizations (often in Python or Tableau) and communicating data-driven stories across diverse audiences. 
+With a background in data science and computer engineering, I bring extensive experience in handling diverse datasets and using advanced statistical and machine learning methods. I also enjoy storytelling by designing interactive data visualizations (often in Python or Tableau), to effectively communicate data-driven narratives to diverse audiences.
 
-
-I am currently expanding my skill set to topics such as time series analysis and machine learning methods for analyzing trends in energy systems and I am excited to continue learning new ways of deriving actionable insight from data in a fast-paced and collaborative environment.
+Presently, I am broadening my skill set to encompass areas such as time series analysis and machine learning methods tailored for examining trends in energy systems. I am eager to continue my learning new ways to extract actionable insights from data within fast-paced and collaborative environments.
