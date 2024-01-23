@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <b> Data Scientist | Researcher | Educator</b>
+description: <b> PhD, University of Washington</b>
 
 profile:
   align: right
@@ -14,4 +14,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
- I am researcher, specializing in studying innovation in grid-scale long-duration energy storage. My expertise lies in planning and executing quantitative and qualitative research, data analysis, Python, SQL, inferential statistics, data visualization (Tableau, Altair), machine learning and communicating research findings across diverse audiences. With a proven track record in market and product research across industries, and 6 years of education program management experience, I excel at aligning research goals with business objective and deriving actionable insights from data to drive impact.
+Trained as an data scientist and computer engineer, I have an extensive background working with varied datasets and using advanced statistical and machine learning methods. I also enjoy storytelling by building interactive data visualizations (often in Python or Tableau) and communicating data-driven stories across diverse audiences. 
+
+
+I am currently expanding my skill set to topics such as time series analysis and machine learning methods for analyzing trends in energy systems and I am excited to continue learning new ways of deriving actionable insight from data in a fast-paced and collaborative environment.
