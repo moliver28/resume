@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interpretable AI-Logistic Regression
+title: Interpretable AI-Decision Trees
 description:
 img: /assets/img/interpret_ai_lr.png
 redirect: https://medium.com/@shrutimisra/interpretable-ai-decision-trees-f9698e94ef9b
