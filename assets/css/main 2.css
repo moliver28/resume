@@ -27,14 +27,14 @@
 }
 
 html[data-theme=dark] {
-  --global-bg-color: #424242;
+  --global-bg-color: #181818;
   --global-code-bg-color: #2c3237;
   --global-text-color: #e8e8e8;
   --global-text-color-light: #e8e8e8;
   --global-theme-color: #2698BA;
   --global-hover-color: #2698BA;
   --global-footer-bg-color: #e8e8e8;
-  --global-footer-text-color: #424242;
+  --global-footer-text-color: #181818;
   --global-footer-link-color: #000000;
   --global-distill-app-color: #e8e8e8;
 }
