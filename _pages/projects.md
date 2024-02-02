@@ -1,8 +1,8 @@
 ---
 layout: page
-title: data science
+title: Projects
 order: 1
-permalink: /data-science/
+permalink: /projects/
 description:
 nav: true
 display_categories: [data analysis and interpretation, machine learning, data visualization, business and research case studies, fun]
